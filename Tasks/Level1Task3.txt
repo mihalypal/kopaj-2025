@@ -106,3 +106,453 @@ Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJ
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 792
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "f1535002-5212-4104-bc49-26b1e1ac80f8",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Counter struct {\\n    count int\\n}\\n\\nfunc (c Counter) Increment() {\\n    c.count++\\n}\\n\\nfunc (c Counter) Decrement() {\\n    c.count--\\n}\\n\\nfunc (c Counter) GetCount() int {\\n    return c.count\\n}\\n\\nfunc main() {\\n    counter := Counter{count: 0}\\n    counter.Increment()\\n    fmt.Println(counter.GetCount())\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot use ++ operator in Go"\n  }, {\n    "letter" : "B",\n    "answer" : "Method receiver should be pointer (*Counter) for mutations to persist"\n  }, {\n    "letter" : "C",\n    "answer" : "count field must be exported (uppercase)"\n  }, {\n    "letter" : "D",\n    "answer" : "main function missing return statement"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 800
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "069209cb-d356-4176-847b-e8b28ab53ef2",\n  "code" : "class Counter {\\n    private count: number = 0;\\n    \\n    increment(): void {\\n        this.count++;\\n    }\\n    \\n    decrement(): void {\\n        this.count--;\\n    }\\n    \\n    add(value: number): void {\\n        this.count += value;\\n    }\\n    \\n    getValue() {\\n        return this.count;\\n    }\\n    \\n    reset(): void {\\n        this.count = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot initialize class properties inline"\n  }, {\n    "letter" : "B",\n    "answer" : "increment and decrement operators are not allowed"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing return type annotation on getValue method"\n  }, {\n    "letter" : "D",\n    "answer" : "void must be capitalized as Void"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 865
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "d6bf0f3d-c221-4cf1-851a-2de128dd150a",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype UserManager struct {\\n    users []string\\n}\\n\\nfunc (um *UserManager) addUser(name string) {\\n    um.users = append(um.users, name)\\n}\\n\\nfunc (um *UserManager) GetUser(index int) string {\\n    return um.users[index]\\n}\\n\\nfunc (um *UserManager) GetCount() int {\\n    return len(um.users)\\n}\\n\\nfunc main() {\\n    um := &UserManager{}\\n    um.addUser(\\"John\\")\\n    fmt.Println(um.GetCount())\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "addUser method starts with lowercase (unexported) but is called from main package"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use := operator"\n  }, {\n    "letter" : "C",\n    "answer" : "append function doesn\'t exist in Go"\n  }, {\n    "letter" : "D",\n    "answer" : "main function must return int"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 823
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "9ab093fe-2e73-455d-b9a7-0ee4c1ff3f35",\n  "code" : "enum Status {\\n    Active,\\n    Inactive,\\n    Pending\\n}\\n\\nclass Task {\\n    private title: string;\\n    private status: Status;\\n    \\n    constructor(title: string) {\\n        this.title = title;\\n        this.status = Status.Pending;\\n    }\\n    \\n    setStatus(status: Status): void {\\n        this.status = status\\n    }\\n    \\n    isActive(): boolean {\\n        return this.status === Status.Active;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "enum is not a valid TypeScript keyword"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use === with enum values"\n  }, {\n    "letter" : "C",\n    "answer" : "Status type must be string"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing semicolon after assignment in setStatus"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 842
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "783ff0a8-7785-48c9-af07-cfbd79839abe",\n  "code" : "interface User {\\n    name: string;\\n    age: number;\\n}\\n\\nclass UserManager {\\n    private users: User[] = [];\\n    \\n    addUser(user: User): void {\\n        this.users.push(user);\\n    }\\n    \\n    getUser(index: number): User {\\n        return this.users[index]\\n    }\\n    \\n    getUserCount(): number {\\n        return this.users.length;\\n    }\\n    \\n    clearUsers(): void {\\n        this.users = [];\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface cannot have properties"\n  }, {\n    "letter" : "B",\n    "answer" : "Array initialization syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing semicolon after return statement in getUser"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use length property on arrays"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 698
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "b3c48f0f-4e6a-4ca7-a9b6-b4c6a75b9da4",\n  "code" : "public class Calculator {\\n    private int result;\\n    \\n    public Calculator() {\\n        this.result = 0;\\n    }\\n    \\n    public int add(int a, int b) {\\n        return a + b\\n    }\\n    \\n    public int subtract(int a, int b) {\\n        return a - b;\\n    }\\n    \\n    public void reset() {\\n        this.result = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing semicolon after return statement"\n  }, {\n    "letter" : "B",\n    "answer" : "Method should be static"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong return type"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing closing brace"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 915
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "80505cf9-7b5e-4638-a9c6-1d6a3d5d1cad",\n  "code" : "interface Shape {\\n    getArea(): number;\\n}\\n\\nclass Rectangle implements Shape {\\n    private width: number;\\n    private height: number;\\n    \\n    constructor(width: number, height: number) {\\n        this.width = width;\\n        this.height = height;\\n    }\\n    \\n    getArea(): number {\\n        return this.width * this.height;\\n    }\\n    \\n    getPerimeter(): number {\\n        return 2 * (this.width + this.height);\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface methods cannot have return types"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing implementation of getArea method (should have semicolon after method signature in interface)"\n  }, {\n    "letter" : "C",\n    "answer" : "implements keyword is incorrect"\n  }, {\n    "letter" : "D",\n    "answer" : "No error - this code compiles successfully"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 757
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8cb124ef-1eba-473e-a877-81abd9ceadba",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Config struct {\\n    Host string\\n    Port int\\n}\\n\\nfunc (c *Config) GetConnectionString() string {\\n    return fmt.Sprintf(\\"%s:%d\\", c.Host, c.Port)\\n}\\n\\nfunc main() {\\n    var config *Config\\n    connection := config.GetConnectionString()\\n    fmt.Println(connection)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Sprintf doesn\'t exist in fmt package"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use := in main function"\n  }, {\n    "letter" : "C",\n    "answer" : "Potential nil pointer dereference (config is nil when calling GetConnectionString)"\n  }, {\n    "letter" : "D",\n    "answer" : "fmt.Println must have semicolon"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 850
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "19bfc0ea-9840-4990-8965-28b74c054ed2",\n  "code" : "type Config = {\\n    host: string;\\n    port: number;\\n};\\n\\nclass ConfigManager {\\n    private config: Config;\\n    \\n    constructor() {\\n        this.config = { host: \\"localhost\\", port: 8080 };\\n    }\\n    \\n    getHost(): string {\\n        return this.config.host;\\n    }\\n    \\n    getDatabase(): string {\\n        return this.config.database;\\n    }\\n    \\n    setPort(port: number): void {\\n        this.config.port = port;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Property \'database\' does not exist on type Config"\n  }, {\n    "letter" : "B",\n    "answer" : "Type alias syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use dot notation with types"\n  }, {\n    "letter" : "D",\n    "answer" : "constructor must return a value"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 826
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "741077e5-d474-49e1-b77c-ad3ff249eb88",\n  "code" : "public class Counter {\\n    private int total;\\n    \\n    public Counter() {\\n        this.total = 0;\\n    }\\n    \\n    public void increment() {\\n        int count = 0;\\n        count++;\\n        int count = count + 1;\\n        total += count;\\n    }\\n    \\n    public void decrement() {\\n        total--;\\n    }\\n    \\n    public int getTotal() {\\n        return total;\\n    }\\n    \\n    public void reset() {\\n        total = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot use ++ operator on int"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing return statement"\n  }, {\n    "letter" : "C",\n    "answer" : "Variable \'count\' is already defined"\n  }, {\n    "letter" : "D",\n    "answer" : "count should be declared as final"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 760
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7916a4bc-021c-45f7-b062-2cb5f919a71e",\n  "code" : "class Calculator:\\n    def __init__(self):\\n        self.result = 0\\n    \\n    def add(self, a, b)\\n        return a + b\\n    \\n    def subtract(self, a, b):\\n        return a - b\\n    \\n    def multiply(self, a, b):\\n        return a * b\\n    \\n    def get_result(self):\\n        return self.result\\n    \\n    def reset(self):\\n        self.result = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing parentheses in __init__ method"\n  }, {\n    "letter" : "B",\n    "answer" : "self parameter should be removed"\n  }, {\n    "letter" : "C",\n    "answer" : "return statements need semicolons"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon after add method definition"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 847
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "27fc8674-7ed5-4d8e-8045-00e7bfd4613f",\n  "code" : "package main\\n\\ntype Logger struct {\\n    name string\\n    logs []string\\n}\\n\\nfunc NewLogger(name string) *Logger {\\n    return &Logger{name: name, logs: make([]string, 0)}\\n}\\n\\nfunc (l *Logger) Log(message string) {\\n    l.logs = append(l.logs, message)\\n    Println(\\"Logged: \\" + message)\\n}\\n\\nfunc (l *Logger) GetLogs() []string {\\n    return l.logs\\n}\\n\\nfunc (l *Logger) Clear() {\\n    l.logs = []string{}\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Undefined: Println (should be fmt.Println or missing import)"\n  }, {\n    "letter" : "B",\n    "answer" : "append is not a built-in function"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot concatenate strings with +"\n  }, {\n    "letter" : "D",\n    "answer" : "make() function requires three arguments"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 698
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "b3c48f0f-4e6a-4ca7-a9b6-b4c6a75b9da4",\n  "code" : "public class Calculator {\\n    private int result;\\n    \\n    public Calculator() {\\n        this.result = 0;\\n    }\\n    \\n    public int add(int a, int b) {\\n        return a + b\\n    }\\n    \\n    public int subtract(int a, int b) {\\n        return a - b;\\n    }\\n    \\n    public void reset() {\\n        this.result = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing semicolon after return statement"\n  }, {\n    "letter" : "B",\n    "answer" : "Method should be static"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong return type"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing closing brace"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 755
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7f0240ab-472f-46d7-8fdf-479f1c229065",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Reader struct {\\n    data string\\n}\\n\\nfunc (r *Reader) ReadData() (string, error) {\\n    if r.data == \\"\\" {\\n        return \\"\\", fmt.Errorf(\\"no data\\")\\n    }\\n    return r.data, nil\\n}\\n\\nfunc main() {\\n    reader := &Reader{data: \\"test\\"}\\n    result := reader.ReadData()\\n    fmt.Println(result)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "fmt.Errorf doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Assignment mismatch: ReadData returns 2 values but only 1 variable on left"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot return nil in Go"\n  }, {\n    "letter" : "D",\n    "answer" : "error is not a valid type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 714
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8df68106-7ad3-47cb-8384-bf78531947a1",\n  "code" : "import \\"fmt\\"\\n\\ntype Calculator struct {\\n    result int\\n}\\n\\nfunc NewCalculator() *Calculator {\\n    return &Calculator{result: 0}\\n}\\n\\nfunc (c *Calculator) Add(a, b int) int {\\n    return a + b\\n}\\n\\nfunc (c *Calculator) Subtract(a, b int) int {\\n    return a - b\\n}\\n\\nfunc (c *Calculator) Reset() {\\n    c.result = 0\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing package declaration at the beginning"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolons"\n  }, {\n    "letter" : "C",\n    "answer" : "struct keyword should be capitalized"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use pointers in Go"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 755
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7f0240ab-472f-46d7-8fdf-479f1c229065",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Reader struct {\\n    data string\\n}\\n\\nfunc (r *Reader) ReadData() (string, error) {\\n    if r.data == \\"\\" {\\n        return \\"\\", fmt.Errorf(\\"no data\\")\\n    }\\n    return r.data, nil\\n}\\n\\nfunc main() {\\n    reader := &Reader{data: \\"test\\"}\\n    result := reader.ReadData()\\n    fmt.Println(result)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "fmt.Errorf doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Assignment mismatch: ReadData returns 2 values but only 1 variable on left"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot return nil in Go"\n  }, {\n    "letter" : "D",\n    "answer" : "error is not a valid type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 850
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "19bfc0ea-9840-4990-8965-28b74c054ed2",\n  "code" : "type Config = {\\n    host: string;\\n    port: number;\\n};\\n\\nclass ConfigManager {\\n    private config: Config;\\n    \\n    constructor() {\\n        this.config = { host: \\"localhost\\", port: 8080 };\\n    }\\n    \\n    getHost(): string {\\n        return this.config.host;\\n    }\\n    \\n    getDatabase(): string {\\n        return this.config.database;\\n    }\\n    \\n    setPort(port: number): void {\\n        this.config.port = port;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Property \'database\' does not exist on type Config"\n  }, {\n    "letter" : "B",\n    "answer" : "Type alias syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use dot notation with types"\n  }, {\n    "letter" : "D",\n    "answer" : "constructor must return a value"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 848
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "9b5ed7f9-8132-44d2-a923-a045a18c22e6",\n  "code" : "class UserValidator:\\n    def __init__(self, min_age):\\n        self.min_age = min_age\\n        self.max_age = 100\\n    \\n    def is_valid_age(self, age):\\n        if age = self.min_age:\\n            return True\\n        return False\\n    \\n    def set_age_range(self, min_age, max_age):\\n        self.min_age = min_age\\n        self.max_age = max_age\\n    \\n    def get_min_age(self):\\n        return self.min_age",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing colon after if statement"\n  }, {\n    "letter" : "B",\n    "answer" : "age variable is not defined"\n  }, {\n    "letter" : "C",\n    "answer" : "Using assignment operator (=) instead of comparison (==) in condition"\n  }, {\n    "letter" : "D",\n    "answer" : "self.min_age should be declared as private"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 823
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "1ec243b7-e645-4562-b0f6-d0d32af54bce",\n  "code" : "class DataProcessor:\\n    def __init__(self):\\n        self.data = []\\n        self.total = 0\\n    \\n    def add_item(self, item):\\n        self.data.append(item)\\n        self.total += item\\n    \\n    def process(self):\\n        result = calculation_result\\n        print(result)\\n        return result\\n    \\n    def get_average(self):\\n        if len(self.data) > 0:\\n            return self.total / len(self.data)\\n        return 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import statement"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use len() on list"\n  }, {\n    "letter" : "C",\n    "answer" : "Division operator is incorrect"\n  }, {\n    "letter" : "D",\n    "answer" : "NameError: \'calculation_result\' is not defined"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 842
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "783ff0a8-7785-48c9-af07-cfbd79839abe",\n  "code" : "interface User {\\n    name: string;\\n    age: number;\\n}\\n\\nclass UserManager {\\n    private users: User[] = [];\\n    \\n    addUser(user: User): void {\\n        this.users.push(user);\\n    }\\n    \\n    getUser(index: number): User {\\n        return this.users[index]\\n    }\\n    \\n    getUserCount(): number {\\n        return this.users.length;\\n    }\\n    \\n    clearUsers(): void {\\n        this.users = [];\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface cannot have properties"\n  }, {\n    "letter" : "B",\n    "answer" : "Array initialization syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing semicolon after return statement in getUser"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use length property on arrays"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 870
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7207d1ff-02c9-439d-a28b-8c96299087fa",\n  "code" : "class StringProcessor:\\n    def __init__(self, default_text):\\n        self.default_text = default_text\\n        self.processed_count = 0\\n    \\n    def process(self, text):\\n    if text is None:\\n            return \\"Error\\"\\n        self.processed_count += 1\\n        return text.upper()\\n    \\n    def get_count(self):\\n        return self.processed_count\\n    \\n    def reset(self):\\n        self.processed_count = 0\\n        self.default_text = \\"\\"",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Incorrect indentation in process method body"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing self parameter in process method"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use is None comparison"\n  }, {\n    "letter" : "D",\n    "answer" : "upper() method doesn\'t exist on strings"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 760
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7916a4bc-021c-45f7-b062-2cb5f919a71e",\n  "code" : "class Calculator:\\n    def __init__(self):\\n        self.result = 0\\n    \\n    def add(self, a, b)\\n        return a + b\\n    \\n    def subtract(self, a, b):\\n        return a - b\\n    \\n    def multiply(self, a, b):\\n        return a * b\\n    \\n    def get_result(self):\\n        return self.result\\n    \\n    def reset(self):\\n        self.result = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing parentheses in __init__ method"\n  }, {\n    "letter" : "B",\n    "answer" : "self parameter should be removed"\n  }, {\n    "letter" : "C",\n    "answer" : "return statements need semicolons"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon after add method definition"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 802
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "b1f8f37e-d7a3-48e1-bb8e-bb5ae50fa6e3",\n  "code" : "package calculator\\n\\ntype MathUtils struct {\\n    pi float64\\n}\\n\\nfunc NewMathUtils() *MathUtils {\\n    return &MathUtils{pi: 3.14159}\\n}\\n\\nfunc (m *MathUtils) Divide(a, b int) int {\\n    if b == 0 {\\n        return 0\\n    } else {\\n        return a / b\\n    }\\n}\\n\\nfunc (m *MathUtils) CircleArea(radius float64) float64 {\\n    return m.pi * radius * radius\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing closing brace"\n  }, {\n    "letter" : "B",\n    "answer" : "float64 is not a valid type"\n  }, {\n    "letter" : "C",\n    "answer" : "Methods cannot have pointer receivers"\n  }, {\n    "letter" : "D",\n    "answer" : "No error - code is correct but could be improved (missing return in if branch is handled)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 800
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "069209cb-d356-4176-847b-e8b28ab53ef2",\n  "code" : "class Counter {\\n    private count: number = 0;\\n    \\n    increment(): void {\\n        this.count++;\\n    }\\n    \\n    decrement(): void {\\n        this.count--;\\n    }\\n    \\n    add(value: number): void {\\n        this.count += value;\\n    }\\n    \\n    getValue() {\\n        return this.count;\\n    }\\n    \\n    reset(): void {\\n        this.count = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot initialize class properties inline"\n  }, {\n    "letter" : "B",\n    "answer" : "increment and decrement operators are not allowed"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing return type annotation on getValue method"\n  }, {\n    "letter" : "D",\n    "answer" : "void must be capitalized as Void"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 915
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "80505cf9-7b5e-4638-a9c6-1d6a3d5d1cad",\n  "code" : "interface Shape {\\n    getArea(): number;\\n}\\n\\nclass Rectangle implements Shape {\\n    private width: number;\\n    private height: number;\\n    \\n    constructor(width: number, height: number) {\\n        this.width = width;\\n        this.height = height;\\n    }\\n    \\n    getArea(): number {\\n        return this.width * this.height;\\n    }\\n    \\n    getPerimeter(): number {\\n        return 2 * (this.width + this.height);\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface methods cannot have return types"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing implementation of getArea method (should have semicolon after method signature in interface)"\n  }, {\n    "letter" : "C",\n    "answer" : "implements keyword is incorrect"\n  }, {\n    "letter" : "D",\n    "answer" : "No error - this code compiles successfully"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

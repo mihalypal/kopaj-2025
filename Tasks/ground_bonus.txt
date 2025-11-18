@@ -142,3 +142,39 @@ Task-Description: How many different sports can you spot in the company trailer 
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: How many different sports can you spot in the company trailer video? Check social media channels for the video.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: How many different sports can you spot in the company trailer video? Check social media channels for the video.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

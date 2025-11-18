@@ -1114,3 +1114,453 @@ She drinks coffee every morning.
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 21
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+El sopar est\xc3\xa0 llest.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 30
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Morgen fahren wir nach Berlin.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 18
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Het regent buiten.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 38
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+J\xe2\x80\x99aime voyager pendant les vacances.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 20
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Le d\xc3\xaener est pr\xc3\xaat.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 19
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Van egy testv\xc3\xa9rem.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 28
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+We wandelen vaak in het bos.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 28
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Sy drink koffie elke oggend.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 27
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ek luister graag na musiek.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 33
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+It\xe2\x80\x99s raining, but I feel happy.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 22
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Imam mnogo prijatelja.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 32
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ek hou daarvan om boeke te lees.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 25
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Dem\xc3\xa0 anirem a la platja.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 25
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Morgen ga ik naar school.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 20
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ek werk in die stad.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 30
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Demain, nous irons au march\xc3\xa9.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 28
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+We wandelen vaak in het bos.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 32
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+She drinks coffee every morning.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 30
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Der Film war sehr interessant.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 31
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+We are cooking dinner together.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 26
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+A macska az \xc3\xa1gyon alszik.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 32
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+She drinks coffee every morning.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 27
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Mein Freund liest ein Buch.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 29
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+I am learning a new language.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 28
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ich trinke morgens gern Tee.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
