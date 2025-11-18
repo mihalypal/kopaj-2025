@@ -1,0 +1,36 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Binoculars
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

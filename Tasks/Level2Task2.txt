@@ -1,0 +1,36 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+
+#####################
+		BODY:
+#####################
+and
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+
+#####################
+		BODY:
+#####################
+hello
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

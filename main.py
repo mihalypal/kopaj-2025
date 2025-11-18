@@ -549,7 +549,8 @@ def Level1Task3():
     #res = ask_ai("Here is a code snippet that needs review:\n" + str(body) + "\n Identify the explanation answer and send back response in this json format: {\"id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\"answerLetter\": \"B\"\}")
 
     #return res
-    data = json.loads(body)
+    cleaned = body.replace("\\n", "")
+    data = json.loads(cleaned)
     task_id = data.get("id")
     code = data.get("code", "")
     answers = data.get("answers", [])

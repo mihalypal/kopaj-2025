@@ -970,3 +970,129 @@ Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJ
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 922
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "5350c2d3-617f-4920-87fc-bba47829e7d5",\n  "code" : "public class Validator {\\n    private int minValue;\\n    private int maxValue;\\n    \\n    public Validator(int min, int max) {\\n        this.minValue = min;\\n        this.maxValue = max;\\n    }\\n    \\n    public boolean isValid(int number) {\\n        return number > 0;\\n        System.out.println(\\"Validation done\\");\\n    }\\n    \\n    public boolean isInRange(int number) {\\n        return number >= minValue && number <= maxValue;\\n    }\\n    \\n    public void setRange(int min, int max) {\\n        this.minValue = min;\\n        this.maxValue = max;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Wrong return type"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolon"\n  }, {\n    "letter" : "C",\n    "answer" : "Invalid comparison operator"\n  }, {\n    "letter" : "D",\n    "answer" : "Unreachable statement after return"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 1088
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "fd16ccac-8bbc-4f17-911e-b0c9128df7da",\n  "code" : "public class FileProcessor {\\n    private String lastLine;\\n    private int lineCount;\\n    \\n    public FileProcessor() {\\n        this.lastLine = \\"\\";\\n        this.lineCount = 0;\\n    }\\n    \\n    public void readFile(String path) throws IOException {\\n        File file = new File(path);\\n        Scanner scanner = new Scanner(file);\\n        while (scanner.hasNextLine()) {\\n            lastLine = scanner.nextLine();\\n            lineCount++;\\n        }\\n        System.out.println(lastLine);\\n    }\\n    \\n    public String getLastLine() {\\n        return lastLine;\\n    }\\n    \\n    public int getLineCount() {\\n        return lineCount;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import statements for IOException, File, and Scanner"\n  }, {\n    "letter" : "B",\n    "answer" : "Scanner should be closed"\n  }, {\n    "letter" : "C",\n    "answer" : "File doesn\'t have a Scanner constructor"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use throws keyword in method signature"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 924
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "6a272ac1-6c16-4c95-a7fd-d04e1743a5f0",\n  "code" : "public class TypeConverter {\\n    private String lastInput;\\n    private int lastOutput;\\n    \\n    public TypeConverter() {\\n        this.lastInput = \\"\\";\\n        this.lastOutput = 0;\\n    }\\n    \\n    public void convert() {\\n        String text = \\"123\\";\\n        int number = text;\\n        this.lastInput = text;\\n        this.lastOutput = number;\\n        System.out.println(number);\\n    }\\n    \\n    public String getLastInput() {\\n        return lastInput;\\n    }\\n    \\n    public int getLastOutput() {\\n        return lastOutput;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing semicolon"\n  }, {\n    "letter" : "B",\n    "answer" : "text should be final"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong method signature"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot assign String to int (incompatible types)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 757
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8cb124ef-1eba-473e-a877-81abd9ceadba",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Config struct {\\n    Host string\\n    Port int\\n}\\n\\nfunc (c *Config) GetConnectionString() string {\\n    return fmt.Sprintf(\\"%s:%d\\", c.Host, c.Port)\\n}\\n\\nfunc main() {\\n    var config *Config\\n    connection := config.GetConnectionString()\\n    fmt.Println(connection)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Sprintf doesn\'t exist in fmt package"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use := in main function"\n  }, {\n    "letter" : "C",\n    "answer" : "Potential nil pointer dereference (config is nil when calling GetConnectionString)"\n  }, {\n    "letter" : "D",\n    "answer" : "fmt.Println must have semicolon"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 826
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "741077e5-d474-49e1-b77c-ad3ff249eb88",\n  "code" : "public class Counter {\\n    private int total;\\n    \\n    public Counter() {\\n        this.total = 0;\\n    }\\n    \\n    public void increment() {\\n        int count = 0;\\n        count++;\\n        int count = count + 1;\\n        total += count;\\n    }\\n    \\n    public void decrement() {\\n        total--;\\n    }\\n    \\n    public int getTotal() {\\n        return total;\\n    }\\n    \\n    public void reset() {\\n        total = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot use ++ operator on int"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing return statement"\n  }, {\n    "letter" : "C",\n    "answer" : "Variable \'count\' is already defined"\n  }, {\n    "letter" : "D",\n    "answer" : "count should be declared as final"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 737
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "89063cdc-ea7f-4eb4-9cfb-fa19341b54ee",\n  "code" : "package main\\n\\nimport (\\n    \\"fmt\\"\\n    \\"strconv\\"\\n)\\n\\ntype Converter struct {\\n    lastInput string\\n    lastOutput int\\n}\\n\\nfunc (c *Converter) Convert(text string) {\\n    number := text\\n    c.lastInput = text\\n    c.lastOutput = number\\n    fmt.Println(number)\\n}\\n\\nfunc (c *Converter) GetLastOutput() int {\\n    return c.lastOutput\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import for strconv"\n  }, {\n    "letter" : "B",\n    "answer" : "Methods must return error"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot assign string to int (type mismatch)"\n  }, {\n    "letter" : "D",\n    "answer" : "text parameter should be pointer"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 802
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "b1f8f37e-d7a3-48e1-bb8e-bb5ae50fa6e3",\n  "code" : "package calculator\\n\\ntype MathUtils struct {\\n    pi float64\\n}\\n\\nfunc NewMathUtils() *MathUtils {\\n    return &MathUtils{pi: 3.14159}\\n}\\n\\nfunc (m *MathUtils) Divide(a, b int) int {\\n    if b == 0 {\\n        return 0\\n    } else {\\n        return a / b\\n    }\\n}\\n\\nfunc (m *MathUtils) CircleArea(radius float64) float64 {\\n    return m.pi * radius * radius\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing closing brace"\n  }, {\n    "letter" : "B",\n    "answer" : "float64 is not a valid type"\n  }, {\n    "letter" : "C",\n    "answer" : "Methods cannot have pointer receivers"\n  }, {\n    "letter" : "D",\n    "answer" : "No error - code is correct but could be improved (missing return in if branch is handled)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

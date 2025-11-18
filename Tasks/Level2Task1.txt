@@ -1,0 +1,36 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 666
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/130UkE7mdBrQmi8z6_RvcKXt7viMUfNfR/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "nodes" : [ "WIZARD_TOWER", "BRIMSTONE_GORGE", "SUNFIRE_PLAINS", "CELESTIAL_TERRACE", "OBSIDIAN_SPIRE", "GLOOMSHADE_BOG", "DRAKEWIND_PASS", "SHADOWED_FOREST", "DRAGONSBREATH_BAY", "FROSTFANG_TUNDRA" ],\n  "times" : [ [ 0, 34, 48, 40, 9, 13, 40, 10, 45, 36 ], [ 34, 0, 15, 11, 7, 20, 17, 16, 26, 47 ], [ 48, 15, 0, 20, 35, 7, 38, 24, 42, 46 ], [ 40, 11, 20, 0, 1, 45, 1, 14, 22, 47 ], [ 9, 7, 35, 1, 0, 3, 22, 24, 11, 14 ], [ 13, 20, 7, 45, 3, 0, 44, 11, 19, 50 ], [ 40, 17, 38, 1, 22, 44, 0, 36, 48, 22 ], [ 10, 16, 24, 14, 24, 11, 36, 0, 50, 2 ], [ 45, 26, 42, 22, 11, 19, 48, 50, 0, 20 ], [ 36, 47, 46, 47, 14, 50, 22, 2, 20, 0 ] ],\n  "start" : "WIZARD_TOWER"\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 753
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/130UkE7mdBrQmi8z6_RvcKXt7viMUfNfR/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "nodes" : [ "WIZARD_TOWER", "OBSIDIAN_SPIRE", "VELVET_VALE", "GOLDEN_MEADOWS", "SKYFORGE_CITADEL", "MOONLIT_MARSH", "THORNFIELD", "ELDRITCH_HOLLOW", "NEBULA_FEN", "SERPENTINE_DUNES", "SAPPHIRE_LAKE" ],\n  "times" : [ [ 0, 24, 30, 2, 28, 40, 25, 27, 20, 16, 48 ], [ 24, 0, 14, 47, 21, 22, 49, 49, 10, 1, 20 ], [ 30, 14, 0, 32, 31, 11, 35, 34, 41, 26, 36 ], [ 2, 47, 32, 0, 16, 36, 6, 44, 47, 35, 17 ], [ 28, 21, 31, 16, 0, 42, 2, 50, 1, 43, 21 ], [ 40, 22, 11, 36, 42, 0, 27, 16, 27, 37, 11 ], [ 25, 49, 35, 6, 2, 27, 0, 38, 25, 4, 30 ], [ 27, 49, 34, 44, 50, 16, 38, 0, 28, 42, 5 ], [ 20, 10, 41, 47, 1, 27, 25, 28, 0, 43, 35 ], [ 16, 1, 26, 35, 43, 37, 4, 42, 43, 0, 39 ], [ 48, 20, 36, 17, 21, 11, 30, 5, 35, 39, 0 ] ],\n  "start" : "WIZARD_TOWER"\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
