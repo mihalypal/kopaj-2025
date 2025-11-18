@@ -1,0 +1,3960 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 122
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Where did the compass lead Mara?\na) To an ancient ruin\nb) To a mountain peak\nc) To a treasure chest\nd) To a magical forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 196
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Mara do with the knowledge she gained?\na) She used it to invent new devices for the city\nb) She kept it for herself\nc) She shared it with only a few people\nd) She hid it in a secret vault
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Kai want to find the Sands of Time?\na) To become king of Zaldara\nb) To undo a mistake from his past\nc) To gain immortality\nd) To stop a war
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 187
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What happened that signaled something was wrong in the forest?\na) The statue moved\nb) The villagers heard strange noises\nc) The statue\xe2\x80\x99s eyes began to glow\nd) A storm struck the village
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 176
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren see in the Moonlit Mirror?\na) A vision of her past\nb) A future where she led her village\nc) A map to hidden treasures\nd) A vision of her becoming a famous healer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the legend of the Sands of Time?\na) It could grant immortality\nb) It could control the flow of time\nc) It could create riches\nd) It could summon storms
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 196
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Mara do with the knowledge she gained?\na) She used it to invent new devices for the city\nb) She kept it for herself\nc) She shared it with only a few people\nd) She hid it in a secret vault
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the legend of the Sands of Time?\na) It could grant immortality\nb) It could control the flow of time\nc) It could create riches\nd) It could summon storms
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 176
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren see in the Moonlit Mirror?\na) A vision of her past\nb) A future where she led her village\nc) A map to hidden treasures\nd) A vision of her becoming a famous healer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 187
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What happened that signaled something was wrong in the forest?\na) The statue moved\nb) The villagers heard strange noises\nc) The statue\xe2\x80\x99s eyes began to glow\nd) A storm struck the village
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 184
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What advice did the wise owl give Lila?\na) "Trust the Dark Spirit."\nb) "Follow the river to the cave."\nc) "Only courage can save you.\nd) "The key to defeating darkness is light within.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 120
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Heart of the Mountain?\na) A wise hermit\nb) The Stone Guardian\nc) A magical beast\nd) The king\xe2\x80\x99s knights
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the legend of the Sands of Time?\na) It could grant immortality\nb) It could control the flow of time\nc) It could create riches\nd) It could summon storms
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 174
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the condition to retrieve the Heart of the Mountain?\na) Be a skilled warrior\nb) Solve a complex puzzle\nc) Possess a pure heart\nd) Defeat the Stone Guardian in battle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 184
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What advice did the wise owl give Lila?\na) "Trust the Dark Spirit."\nb) "Follow the river to the cave."\nc) "Only courage can save you.\nd) "The key to defeating darkness is light within.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Kai want to find the Sands of Time?\na) To become king of Zaldara\nb) To undo a mistake from his past\nc) To gain immortality\nd) To stop a war
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 219
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the old woman say about the stone door?\na) "The door is sealed by magic."\nb) "Only the chosen one may pass"\nc) "You must solve the riddle to enter."\nd) "It will only open to those who seek it with a true heart.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 219
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the old woman say about the stone door?\na) "The door is sealed by magic."\nb) "Only the chosen one may pass"\nc) "You must solve the riddle to enter."\nd) "It will only open to those who seek it with a true heart.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 190
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Kai choose to do in the end?\na) Turn the hourglass to change the past\nb) Destroy the hourglass to prevent its use\nc) Leave the Sands of Time untouched\nd) Take the hourglass with him
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the legend of the Sands of Time?\na) It could grant immortality\nb) It could control the flow of time\nc) It could create riches\nd) It could summon storms
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 196
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Mara do with the knowledge she gained?\na) She used it to invent new devices for the city\nb) She kept it for herself\nc) She shared it with only a few people\nd) She hid it in a secret vault
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren do after seeing the vision in the mirror?\na) She hid the mirror from the village\nb) She returned to her village and prepared for the coming storm\nc) She destroyed the Moonlit Mirror\nd) She left the village to pursue a new life
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 176
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren see in the Moonlit Mirror?\na) A vision of her past\nb) A future where she led her village\nc) A map to hidden treasures\nd) A vision of her becoming a famous healer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Kai want to find the Sands of Time?\na) To become king of Zaldara\nb) To undo a mistake from his past\nc) To gain immortality\nd) To stop a war
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 190
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Kai choose to do in the end?\na) Turn the hourglass to change the past\nb) Destroy the hourglass to prevent its use\nc) Leave the Sands of Time untouched\nd) Take the hourglass with him
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 219
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the old woman say about the stone door?\na) "The door is sealed by magic."\nb) "Only the chosen one may pass"\nc) "You must solve the riddle to enter."\nd) "It will only open to those who seek it with a true heart.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 120
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Heart of the Mountain?\na) A wise hermit\nb) The Stone Guardian\nc) A magical beast\nd) The king\xe2\x80\x99s knights
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 196
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Mara do with the knowledge she gained?\na) She used it to invent new devices for the city\nb) She kept it for herself\nc) She shared it with only a few people\nd) She hid it in a secret vault
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren do after seeing the vision in the mirror?\na) She hid the mirror from the village\nb) She returned to her village and prepared for the coming storm\nc) She destroyed the Moonlit Mirror\nd) She left the village to pursue a new life
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 174
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the condition to retrieve the Heart of the Mountain?\na) Be a skilled warrior\nb) Solve a complex puzzle\nc) Possess a pure heart\nd) Defeat the Stone Guardian in battle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 187
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What happened that signaled something was wrong in the forest?\na) The statue moved\nb) The villagers heard strange noises\nc) The statue\xe2\x80\x99s eyes began to glow\nd) A storm struck the village
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 190
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Kai choose to do in the end?\na) Turn the hourglass to change the past\nb) Destroy the hourglass to prevent its use\nc) Leave the Sands of Time untouched\nd) Take the hourglass with him
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 179
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Mara's true desire when she reached the ruin?\na) To discover forgotten knowledge\nb) To find riches and fame\nc) To seek adventure\nd) To become the best inventor in Eldoria
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 190
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Kai choose to do in the end?\na) Turn the hourglass to change the past\nb) Destroy the hourglass to prevent its use\nc) Leave the Sands of Time untouched\nd) Take the hourglass with him
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 176
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren see in the Moonlit Mirror?\na) A vision of her past\nb) A future where she led her village\nc) A map to hidden treasures\nd) A vision of her becoming a famous healer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 187
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What happened that signaled something was wrong in the forest?\na) The statue moved\nb) The villagers heard strange noises\nc) The statue\xe2\x80\x99s eyes began to glow\nd) A storm struck the village
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 120
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Heart of the Mountain?\na) A wise hermit\nb) The Stone Guardian\nc) A magical beast\nd) The king\xe2\x80\x99s knights
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Kai want to find the Sands of Time?\na) To become king of Zaldara\nb) To undo a mistake from his past\nc) To gain immortality\nd) To stop a war
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 122
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Where did the compass lead Mara?\na) To an ancient ruin\nb) To a mountain peak\nc) To a treasure chest\nd) To a magical forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 120
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Heart of the Mountain?\na) A wise hermit\nb) The Stone Guardian\nc) A magical beast\nd) The king\xe2\x80\x99s knights
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 219
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the old woman say about the stone door?\na) "The door is sealed by magic."\nb) "Only the chosen one may pass"\nc) "You must solve the riddle to enter."\nd) "It will only open to those who seek it with a true heart.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 174
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the condition to retrieve the Heart of the Mountain?\na) Be a skilled warrior\nb) Solve a complex puzzle\nc) Possess a pure heart\nd) Defeat the Stone Guardian in battle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Kai want to find the Sands of Time?\na) To become king of Zaldara\nb) To undo a mistake from his past\nc) To gain immortality\nd) To stop a war
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren do after seeing the vision in the mirror?\na) She hid the mirror from the village\nb) She returned to her village and prepared for the coming storm\nc) She destroyed the Moonlit Mirror\nd) She left the village to pursue a new life
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 142
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the guardian of the forest give Lena to restore the balance?\na) A glowing stone\nb) A magical amulet\nc) A golden key\nd) A silver staff
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 174
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the condition to retrieve the Heart of the Mountain?\na) Be a skilled warrior\nb) Solve a complex puzzle\nc) Possess a pure heart\nd) Defeat the Stone Guardian in battle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 184
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What advice did the wise owl give Lila?\na) "Trust the Dark Spirit."\nb) "Follow the river to the cave."\nc) "Only courage can save you.\nd) "The key to defeating darkness is light within.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the legend of the Sands of Time?\na) It could grant immortality\nb) It could control the flow of time\nc) It could create riches\nd) It could summon storms
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 184
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What advice did the wise owl give Lila?\na) "Trust the Dark Spirit."\nb) "Follow the river to the cave."\nc) "Only courage can save you.\nd) "The key to defeating darkness is light within.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 122
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Where did the compass lead Mara?\na) To an ancient ruin\nb) To a mountain peak\nc) To a treasure chest\nd) To a magical forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 190
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Kai choose to do in the end?\na) Turn the hourglass to change the past\nb) Destroy the hourglass to prevent its use\nc) Leave the Sands of Time untouched\nd) Take the hourglass with him
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 176
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren see in the Moonlit Mirror?\na) A vision of her past\nb) A future where she led her village\nc) A map to hidden treasures\nd) A vision of her becoming a famous healer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 181
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Why did Seren decide to seek the Moonlit Mirror?\na) To find a hidden treasure\nb) To discover her true purpose in life\nc) To save someone from illness\nd) To prove the legend was real
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 160
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lila ultimately defeat the Dark Spirit?\na) By using magic\nb) With the help of the animals\nc) By summoning her inner light\nd) By tricking it into leaving
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 122
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Where did the compass lead Mara?\na) To an ancient ruin\nb) To a mountain peak\nc) To a treasure chest\nd) To a magical forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 122
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Where did the compass lead Mara?\na) To an ancient ruin\nb) To a mountain peak\nc) To a treasure chest\nd) To a magical forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did the Time Keeper warn Kai about?\na) The hourglass was cursed\nb) Using the Sands of Time would create riches but also great poverty\nc) Turning the hourglass would come at a cost\nd) The temple would collapse if the hourglass was touched
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 118
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Lena find in the forest?\na) A hidden treasure\nb) A magic sword\nc) An ancient tree\nd) A stone altar with runes
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 169
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the main task Lila had to complete to lift the curse?\na) Defeat the talking animals\nb) Find the Tree of Life\nc) Retrieve the Crystal of Light\nd) Cross the river
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 214
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Lena save the village from the dark force?\na) She destroyed the Silent Watcher\nb) She fought the shadowy figure\nc) She placed the glowing stone in the Silent Watcher\nd) She led the villagers into the forest
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 183
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was special about Mara's golden compass?\na) It always pointed north\nb) It could predict the future\nc) It pointed to what the user desired most\nd) It could lead to hidden treasure
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 173
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Rowan prepare for his journey?\na) He brought a loaf of bread and a small knife\nb) He trained with knights\nc) He brought a sword and shield\nd) He studied ancient maps
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 147
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was Lila's main motivation for entering the forest? a) To find treasure\nb) To explore the unknown\nc) To lift the curse\nd) To prove her bravery
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 149
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Moonlit Mirror said to reveal?\na) The future of the village\nb) The power of the moon\nc) Hidden treasures\nd) The person\xe2\x80\x99s deepest truth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 155
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the Silent Watcher believed to do for the village?\na) Grant wishes\nb) Protect them from the forest\nc) Lead them to treasure\nd) Control the weather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 110
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Crystal of Light?\na) A giant oak tree\nb) The Dark Spirit\nc) A wise owl\nd) A group of villagers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What did Seren do after seeing the vision in the mirror?\na) She hid the mirror from the village\nb) She returned to her village and prepared for the coming storm\nc) She destroyed the Moonlit Mirror\nd) She left the village to pursue a new life
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 120
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Who guarded the Heart of the Mountain?\na) A wise hermit\nb) The Stone Guardian\nc) A magical beast\nd) The king\xe2\x80\x99s knights
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 162
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What was the prophecy about in the kingdom of Arvandor?\na) A great war\nb) A treasure hidden in the mountains\nc) The rise of a new king\nd) The kingdom disappearing
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 129
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What saved Arvandor in the end?\na) Rowan\xe2\x80\x99s strength\nb) The king\xe2\x80\x99s wisdom\nc) The Heart of the Mountain\nd) The hermit\xe2\x80\x99s magic
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 227
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+How did Seren\xe2\x80\x99s role in the village change after her journey?\na) She became the village leader and protector\nb) She retired as a healer\nc) She left the village to explore the world\nd) She built a temple for the Moonlit Mirror
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 177
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: https://drive.google.com/file/d/1Ip4Qf9x5sn-qWq6ZgaSfjnrExExhl7OB/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+What challenge did Kai face on his journey?\na) He had to battle desert creatures\nb) He was captured by thieves\nc) He had to cross deadly sandstorms\nd) He was lost in a labyrinth
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

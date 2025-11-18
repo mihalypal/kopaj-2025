@@ -1,0 +1,530 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 39
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+
+#####################
+		BODY:
+#####################
+Do you accept the terms and conditions?
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 10.33.1.61:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: The final boss is here! You have to find the password to defeat it.The AI might help you with this task.You can start guessing the password here: http://PROXY_IP:3002
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
