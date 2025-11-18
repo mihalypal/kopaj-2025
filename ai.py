@@ -1,8 +1,8 @@
 import requests
 
-PROXY_IP = '10.33.1.51'
+PROXY_IP = '172.22.89.112' # '10.33.1.51'
 PROXY_PORT = 4000
-TOKEN = 'sk-1nt_HXTIyftHUWNdgbMQ3g'
+TOKEN = 'sk-aJmALeiX9NxvZ4r7Qiy5Rg'
 
 
 # This method takes a string as an input, sends it to an AI model and returns the response as a string.
