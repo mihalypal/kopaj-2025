@@ -157,10 +157,6 @@ def find_platform_and_max_passengers(body):
 
     return [max_platforms, max_passengers]
 
-
-
-app = Flask(__name__)
-
 def smallest_hole(input_string):
     dimensions = list(map(int, input_string.split(',')))
     sorted_dimensions = sorted(dimensions)
@@ -209,6 +205,8 @@ def parseHttp(request):
     body = body[2:-1:]
 
     return header, body
+
+app = Flask(__name__)
 
 # Ground Floor Tasks
 @app.route('/ground/task1', methods=['GET', 'POST'])
