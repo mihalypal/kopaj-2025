@@ -237,6 +237,7 @@ def Task2():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
     res = ask_ai(body + "\n You have to answer the question correctly in one word!")
+    res = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
     # print(res)
     # if res last char is '.' then remove it
     # if res[-1] == '.':
@@ -261,6 +262,7 @@ def Task3():
     # print(body)
     res = count_islands(parse_string_to_matrix(str(body)))
     res2 = ask_ai("How many islands in this matrix?" + str(body) + "\n" + "Answer it with one number! Write Just the number! Nothing else!")
+    res2 = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
 
     return res2
 
@@ -277,6 +279,7 @@ def Task4():
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
     return str(304.6)+'C'
+    # return res = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
 
 @app.route('/level1/task1', methods=['GET', 'POST'])
 def Level1():
