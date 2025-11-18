@@ -1348,3 +1348,273 @@ Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJ
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 870
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7207d1ff-02c9-439d-a28b-8c96299087fa",\n  "code" : "class StringProcessor:\\n    def __init__(self, default_text):\\n        self.default_text = default_text\\n        self.processed_count = 0\\n    \\n    def process(self, text):\\n    if text is None:\\n            return \\"Error\\"\\n        self.processed_count += 1\\n        return text.upper()\\n    \\n    def get_count(self):\\n        return self.processed_count\\n    \\n    def reset(self):\\n        self.processed_count = 0\\n        self.default_text = \\"\\"",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Incorrect indentation in process method body"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing self parameter in process method"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use is None comparison"\n  }, {\n    "letter" : "D",\n    "answer" : "upper() method doesn\'t exist on strings"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 757
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8cb124ef-1eba-473e-a877-81abd9ceadba",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Config struct {\\n    Host string\\n    Port int\\n}\\n\\nfunc (c *Config) GetConnectionString() string {\\n    return fmt.Sprintf(\\"%s:%d\\", c.Host, c.Port)\\n}\\n\\nfunc main() {\\n    var config *Config\\n    connection := config.GetConnectionString()\\n    fmt.Println(connection)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Sprintf doesn\'t exist in fmt package"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use := in main function"\n  }, {\n    "letter" : "C",\n    "answer" : "Potential nil pointer dereference (config is nil when calling GetConnectionString)"\n  }, {\n    "letter" : "D",\n    "answer" : "fmt.Println must have semicolon"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 849
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "c96fa255-23e0-4990-bba2-7294344e9b20",\n  "code" : "class ListManager:\\n    def __init__(self):\\n        self.items = [1, 2, 3, 4, 5]\\n        self.current_index = 0\\n    \\n    def get_first(self):\\n        return self.items[0]\\n    \\n    def get_last(self):\\n        return self.items[5]\\n    \\n    def get_middle(self):\\n        mid = len(self.items) // 2\\n        return self.items[mid]\\n    \\n    def clear(self):\\n        self.items = []\\n        self.current_index = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "IndexError: list index out of range (index 5 doesn\'t exist in 5-element list)"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing self in __init__"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use // operator for division"\n  }, {\n    "letter" : "D",\n    "answer" : "List indices must be floats"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 850
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "19bfc0ea-9840-4990-8965-28b74c054ed2",\n  "code" : "type Config = {\\n    host: string;\\n    port: number;\\n};\\n\\nclass ConfigManager {\\n    private config: Config;\\n    \\n    constructor() {\\n        this.config = { host: \\"localhost\\", port: 8080 };\\n    }\\n    \\n    getHost(): string {\\n        return this.config.host;\\n    }\\n    \\n    getDatabase(): string {\\n        return this.config.database;\\n    }\\n    \\n    setPort(port: number): void {\\n        this.config.port = port;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Property \'database\' does not exist on type Config"\n  }, {\n    "letter" : "B",\n    "answer" : "Type alias syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use dot notation with types"\n  }, {\n    "letter" : "D",\n    "answer" : "constructor must return a value"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 800
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "069209cb-d356-4176-847b-e8b28ab53ef2",\n  "code" : "class Counter {\\n    private count: number = 0;\\n    \\n    increment(): void {\\n        this.count++;\\n    }\\n    \\n    decrement(): void {\\n        this.count--;\\n    }\\n    \\n    add(value: number): void {\\n        this.count += value;\\n    }\\n    \\n    getValue() {\\n        return this.count;\\n    }\\n    \\n    reset(): void {\\n        this.count = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot initialize class properties inline"\n  }, {\n    "letter" : "B",\n    "answer" : "increment and decrement operators are not allowed"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing return type annotation on getValue method"\n  }, {\n    "letter" : "D",\n    "answer" : "void must be capitalized as Void"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 785
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "740227a3-4af7-4d2e-bdcc-05dd3e507392",\n  "code" : "class Logger:\\n    def __init__(self, name):\\n        self.name = name\\n        self.logs = []\\n    \\n    def log_message(self, message):\\n        self.logs.append(message)\\n        print \\"Logged: \\" + message\\n    \\n    def get_logs(self):\\n        return self.logs\\n    \\n    def clear_logs(self):\\n        self.logs = []\\n    \\n    def get_log_count(self):\\n        return len(self.logs)",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing self parameter"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot append to list"\n  }, {\n    "letter" : "C",\n    "answer" : "len() function doesn\'t exist"\n  }, {\n    "letter" : "D",\n    "answer" : "SyntaxError: Missing parentheses in print (Python 3 syntax)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 741
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "19167dc4-c2e1-4704-a6b7-a5de9f2057bc",\n  "code" : "class Counter:\\n    def __init__(self):\\n        self.count = 0\\n    \\n    def increment(self):\\n        self.count += 1\\n    \\n    def decrement(self):\\n\\tself.count -= 1\\n    \\n    def get_count(self):\\n        return self.count\\n    \\n    def reset(self):\\n            self.count = 0\\n    \\n    def double(self):\\n        self.count *= 2",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "IndentationError: inconsistent use of tabs and spaces"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing colon after class definition"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use += operator"\n  }, {\n    "letter" : "D",\n    "answer" : "self parameter is optional"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 714
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8df68106-7ad3-47cb-8384-bf78531947a1",\n  "code" : "import \\"fmt\\"\\n\\ntype Calculator struct {\\n    result int\\n}\\n\\nfunc NewCalculator() *Calculator {\\n    return &Calculator{result: 0}\\n}\\n\\nfunc (c *Calculator) Add(a, b int) int {\\n    return a + b\\n}\\n\\nfunc (c *Calculator) Subtract(a, b int) int {\\n    return a - b\\n}\\n\\nfunc (c *Calculator) Reset() {\\n    c.result = 0\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing package declaration at the beginning"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolons"\n  }, {\n    "letter" : "C",\n    "answer" : "struct keyword should be capitalized"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use pointers in Go"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 714
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8df68106-7ad3-47cb-8384-bf78531947a1",\n  "code" : "import \\"fmt\\"\\n\\ntype Calculator struct {\\n    result int\\n}\\n\\nfunc NewCalculator() *Calculator {\\n    return &Calculator{result: 0}\\n}\\n\\nfunc (c *Calculator) Add(a, b int) int {\\n    return a + b\\n}\\n\\nfunc (c *Calculator) Subtract(a, b int) int {\\n    return a - b\\n}\\n\\nfunc (c *Calculator) Reset() {\\n    c.result = 0\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing package declaration at the beginning"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolons"\n  }, {\n    "letter" : "C",\n    "answer" : "struct keyword should be capitalized"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use pointers in Go"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 760
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7916a4bc-021c-45f7-b062-2cb5f919a71e",\n  "code" : "class Calculator:\\n    def __init__(self):\\n        self.result = 0\\n    \\n    def add(self, a, b)\\n        return a + b\\n    \\n    def subtract(self, a, b):\\n        return a - b\\n    \\n    def multiply(self, a, b):\\n        return a * b\\n    \\n    def get_result(self):\\n        return self.result\\n    \\n    def reset(self):\\n        self.result = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing parentheses in __init__ method"\n  }, {\n    "letter" : "B",\n    "answer" : "self parameter should be removed"\n  }, {\n    "letter" : "C",\n    "answer" : "return statements need semicolons"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon after add method definition"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 949
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "ddc640d4-65d5-46a9-96e4-d06323b9b0ee",\n  "code" : "class ConfigManager:\\n    def __init__(self):\\n        self.config = {\\"host\\": \\"localhost\\", \\"port\\": 8080}\\n        self.defaults = {\\"timeout\\": 30}\\n    \\n    def get_host(self):\\n        return self.config[\\"host\\"]\\n    \\n    def get_database(self):\\n        return self.config[\\"database\\"]\\n    \\n    def set_value(self, key, value):\\n        self.config[key] = value\\n    \\n    def get_timeout(self):\\n        return self.defaults[\\"timeout\\"]\\n    \\n    def reset(self):\\n        self.config = {}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing colon in dictionary definition"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use square brackets to access dictionary"\n  }, {\n    "letter" : "C",\n    "answer" : "Dictionary values must be strings"\n  }, {\n    "letter" : "D",\n    "answer" : "KeyError: \'database\' key doesn\'t exist in config dictionary"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 922
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "5350c2d3-617f-4920-87fc-bba47829e7d5",\n  "code" : "public class Validator {\\n    private int minValue;\\n    private int maxValue;\\n    \\n    public Validator(int min, int max) {\\n        this.minValue = min;\\n        this.maxValue = max;\\n    }\\n    \\n    public boolean isValid(int number) {\\n        return number > 0;\\n        System.out.println(\\"Validation done\\");\\n    }\\n    \\n    public boolean isInRange(int number) {\\n        return number >= minValue && number <= maxValue;\\n    }\\n    \\n    public void setRange(int min, int max) {\\n        this.minValue = min;\\n        this.maxValue = max;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Wrong return type"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolon"\n  }, {\n    "letter" : "C",\n    "answer" : "Invalid comparison operator"\n  }, {\n    "letter" : "D",\n    "answer" : "Unreachable statement after return"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 936
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "e3e6ae37-ee77-43a8-ae1a-c9a36fa770a6",\n  "code" : "public class Student {\\n    private String name;\\n    private int age;\\n    private String studentId;\\n    \\n    public Student(String name) {\\n        this.name = name;\\n        this.age = 18;\\n        this.studentId = \\"UNKNOWN\\";\\n    }\\n    \\n    public Student() {\\n        super(\\"Unknown\\");\\n    }\\n    \\n    public String getName() {\\n        return name;\\n    }\\n    \\n    public void setAge(int age) {\\n        this.age = age;\\n    }\\n    \\n    public String getStudentId() {\\n        return studentId;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot have two constructors"\n  }, {\n    "letter" : "B",\n    "answer" : "Constructor should be private"\n  }, {\n    "letter" : "C",\n    "answer" : "super() must be first statement and Object constructor takes no arguments"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing return type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 849
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "c96fa255-23e0-4990-bba2-7294344e9b20",\n  "code" : "class ListManager:\\n    def __init__(self):\\n        self.items = [1, 2, 3, 4, 5]\\n        self.current_index = 0\\n    \\n    def get_first(self):\\n        return self.items[0]\\n    \\n    def get_last(self):\\n        return self.items[5]\\n    \\n    def get_middle(self):\\n        mid = len(self.items) // 2\\n        return self.items[mid]\\n    \\n    def clear(self):\\n        self.items = []\\n        self.current_index = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "IndexError: list index out of range (index 5 doesn\'t exist in 5-element list)"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing self in __init__"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use // operator for division"\n  }, {\n    "letter" : "D",\n    "answer" : "List indices must be floats"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 838
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "3c251e31-f32d-4807-9896-4d7413c1d517",\n  "code" : "class DataProcessor<T> {\\n    private items: T[];\\n    \\n    constructor() {\\n        this.items = [];\\n    }\\n    \\n    addItem(item: T): void {\\n        this.items.push(item);\\n    }\\n    \\n    getItem(index: number): T {\\n        return this.items[index];\\n    }\\n    \\n    process(): void {\\n        const result = undefinedVariable;\\n        console.log(result);\\n    }\\n    \\n    clear(): void {\\n        this.items = [];\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Generic type syntax is incorrect"\n  }, {\n    "letter" : "B",\n    "answer" : "T[] is not valid array syntax"\n  }, {\n    "letter" : "C",\n    "answer" : "console.log is not allowed in TypeScript"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot find name \'undefinedVariable\'"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

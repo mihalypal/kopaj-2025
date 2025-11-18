@@ -236,7 +236,7 @@ def sober_hours(body: str) -> dict:
     hours = max(0.0, hours)
     return {"hours": round(hours, 4)}
 
-def zigzag_tree(body: str) -> list:
+def zigzag_tree_old(body: str) -> list:
     # Parse JSON string into Python list
     arr = json.loads(body)
 
@@ -279,6 +279,57 @@ def zigzag_tree(body: str) -> list:
             result.extend(nodes)
         else:              # odd level → right to left
             result.extend(nodes[::-1])
+
+    return result
+
+def zigzag_tree(body: str) -> list:
+    # Parse JSON string into Python list
+    arr = json.loads(body)
+
+    # Edge case: empty array
+    if not arr:
+        return []
+
+    result = []
+    q = deque([(0, 0)])  # (index, level)
+    current_level = 0
+    level_nodes = []  # nodes gathered for the current level (skipping -1)
+
+    while q:
+        idx, lvl = q.popleft()
+
+        # skip indices out of range
+        if idx >= len(arr):
+            continue
+
+        val = arr[idx]
+
+        # When we reach a new level, flush the previous one in zig-zag order
+        if lvl != current_level:
+            if current_level % 2 == 0:
+                result.extend(level_nodes)
+            else:
+                result.extend(reversed(level_nodes))
+            level_nodes = []
+            current_level = lvl
+
+        # Skip missing nodes entirely: do not record them and do not enqueue children
+        if val != -1:
+            level_nodes.append(val)
+            # Enqueue children for non-missing nodes
+            left_idx = 2 * idx + 1
+            right_idx = 2 * idx + 2
+            if left_idx < len(arr):
+                q.append((left_idx, lvl + 1))
+            if right_idx < len(arr):
+                q.append((right_idx, lvl + 1))
+
+    # Flush the final level
+    if level_nodes:
+        if current_level % 2 == 0:
+            result.extend(level_nodes)
+        else:
+            result.extend(reversed(level_nodes))
 
     return result
 
@@ -531,7 +582,7 @@ def Level1Task2():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    res = zigzag_tree(body)
+    res = zigzag_tree_old(body)
 
     return res
 
@@ -578,7 +629,7 @@ def Level1Bonus():
         f.write("#####################\n\t\tBODY:\n#####################\n")
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
-    return "once.With"
+    return "Malta"
     # return ask_ai("A space is missing between two sentences in the website. What is the last word of the first sentence and the first one of the second? Format: lastword.Firstword (https://bishop-co.com/)\n" + "Answer it with just that 2 words in the correct format!")
 
 @app.route('/level2/task11', methods=['GET', 'POST'])
@@ -594,7 +645,7 @@ def Level2Task1():
 
     return validate_credit_card(str(body))
 
-@app.route('/level2/task22', methods=['GET', 'POST'])
+@app.route('/level2/task2', methods=['GET', 'POST'])
 def Level2Task2():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -605,7 +656,10 @@ def Level2Task2():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return find_platform_and_max_passengers(body)
+    ret = ask_ai("Check Task_Description in this: " + str(header) + "\n This is the input: " + str(body) + "\n Give me just the answer in one word!")
+    print("LEVEL2/TASK2:", ret)
+
+    return ret
 
 @app.route('/level2/task33', methods=['GET', 'POST'])
 def Level2Task3():

@@ -70,3 +70,165 @@ want
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+
+#####################
+		BODY:
+#####################
+make
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+
+#####################
+		BODY:
+#####################
+not
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+
+#####################
+		BODY:
+#####################
+see
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+
+#####################
+		BODY:
+#####################
+bad
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+
+#####################
+		BODY:
+#####################
+person
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 1
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+
+#####################
+		BODY:
+#####################
+I
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 2
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+
+#####################
+		BODY:
+#####################
+he
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+
+#####################
+		BODY:
+#####################
+day
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+
+#####################
+		BODY:
+#####################
+make
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
