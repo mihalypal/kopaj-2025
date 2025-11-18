@@ -242,7 +242,7 @@ def Task2():
     # if res last char is '.' then remove it
     # if res[-1] == '.':
     #     res = res[:-1]
-    return res
+    return "asd"
 
 
 @app.route('/ground/task3', methods=['GET', 'POST'])
@@ -264,10 +264,10 @@ def Task3():
     res2 = ask_ai("How many islands in this matrix?" + str(body) + "\n" + "Answer it with one number! Write Just the number! Nothing else!")
     res2 = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
 
-    return res2
+    return "res2"
 
 
-@app.route('/ground/bonus', methods=['GET', 'POST'])
+@app.route('/ground/bonus1', methods=['GET', 'POST'])
 def Task4():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -504,7 +504,7 @@ def Level3Bonus():
 
 
 
-@app.route('/final-boss', methods=['GET', 'POST'])
+@app.route('/final-bossxd', methods=['GET', 'POST'])
 def FinalBoss():
     header, body = parseHttp(request)
 

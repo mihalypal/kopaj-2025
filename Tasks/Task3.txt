@@ -1,0 +1,72 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 24
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Els nens juguen al parc.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 27
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ik drink elke ochtend thee.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 23
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ek leer \xe2\x80\x99n nuwe taal.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 23
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian.
+
+#####################
+		BODY:
+#####################
+Ons eet saam elke aand.
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
