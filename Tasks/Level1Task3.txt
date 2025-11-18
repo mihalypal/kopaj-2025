@@ -556,3 +556,417 @@ Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJ
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 889
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "deed7a98-144a-4a67-be06-51bd51f8120b",\n  "code" : "import java.util.ArrayList;\\nimport java.util.List;\\n\\npublic class DataManager {\\n    private List items;\\n    \\n    public DataManager() {\\n        items = new ArrayList();\\n    }\\n    \\n    public List getItems() {\\n        return items;\\n    }\\n    \\n    public void addItem(String item) {\\n        items.add(item);\\n    }\\n    \\n    public void removeItem(String item) {\\n        items.remove(item);\\n    }\\n    \\n    public int getSize() {\\n        return items.size();\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "ArrayList should be imported from java.lang"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot add String to List"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing generic type parameters (raw type usage)"\n  }, {\n    "letter" : "D",\n    "answer" : "Method should be private"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 1088
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "fd16ccac-8bbc-4f17-911e-b0c9128df7da",\n  "code" : "public class FileProcessor {\\n    private String lastLine;\\n    private int lineCount;\\n    \\n    public FileProcessor() {\\n        this.lastLine = \\"\\";\\n        this.lineCount = 0;\\n    }\\n    \\n    public void readFile(String path) throws IOException {\\n        File file = new File(path);\\n        Scanner scanner = new Scanner(file);\\n        while (scanner.hasNextLine()) {\\n            lastLine = scanner.nextLine();\\n            lineCount++;\\n        }\\n        System.out.println(lastLine);\\n    }\\n    \\n    public String getLastLine() {\\n        return lastLine;\\n    }\\n    \\n    public int getLineCount() {\\n        return lineCount;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import statements for IOException, File, and Scanner"\n  }, {\n    "letter" : "B",\n    "answer" : "Scanner should be closed"\n  }, {\n    "letter" : "C",\n    "answer" : "File doesn\'t have a Scanner constructor"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use throws keyword in method signature"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 856
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "b6dcc869-49a2-4092-97cb-e1bed6f51850",\n  "code" : "class TextProcessor:\\n    def __init__(self, text):\\n        self.text = text\\n        self.word_count = 0\\n    \\n    def count_words(self):\\n        self.word_count = len(self.text.split())\\n        return self.word_count\\n    \\n    def to_uppercase(self):\\n        return self.text.uppercase()\\n    \\n    def get_length(self):\\n        return len(self.text)\\n    \\n    def clear(self):\\n        self.text = \\"\\"\\n        self.word_count = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "split() method doesn\'t exist on strings"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing parentheses in len()"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot assign empty string"\n  }, {\n    "letter" : "D",\n    "answer" : "AttributeError: \'str\' object has no attribute \'uppercase\'"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 792
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "f1535002-5212-4104-bc49-26b1e1ac80f8",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Counter struct {\\n    count int\\n}\\n\\nfunc (c Counter) Increment() {\\n    c.count++\\n}\\n\\nfunc (c Counter) Decrement() {\\n    c.count--\\n}\\n\\nfunc (c Counter) GetCount() int {\\n    return c.count\\n}\\n\\nfunc main() {\\n    counter := Counter{count: 0}\\n    counter.Increment()\\n    fmt.Println(counter.GetCount())\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot use ++ operator in Go"\n  }, {\n    "letter" : "B",\n    "answer" : "Method receiver should be pointer (*Counter) for mutations to persist"\n  }, {\n    "letter" : "C",\n    "answer" : "count field must be exported (uppercase)"\n  }, {\n    "letter" : "D",\n    "answer" : "main function missing return statement"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 906
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "6a4ffd24-fccc-4f97-930c-7835303ef562",\n  "code" : "class MessageFormatter {\\n    private prefix: string;\\n    private suffix: string;\\n    \\n    constructor(prefix: string, suffix: string) {\\n        this.prefix = prefix;\\n        this.suffix = suffix;\\n    }\\n    \\n    format(message: string, count: number): string {\\n        return this.prefix + message + count + this.suffix;\\n    }\\n    \\n    getPrefix(): string {\\n        return this.prefix;\\n    }\\n    \\n    getSuffix(): string {\\n        return this.suffix;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Type error: cannot concatenate string with number without conversion"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing semicolons"\n  }, {\n    "letter" : "C",\n    "answer" : "Constructor parameters must have default values"\n  }, {\n    "letter" : "D",\n    "answer" : "Private fields must use # syntax"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 755
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7f0240ab-472f-46d7-8fdf-479f1c229065",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Reader struct {\\n    data string\\n}\\n\\nfunc (r *Reader) ReadData() (string, error) {\\n    if r.data == \\"\\" {\\n        return \\"\\", fmt.Errorf(\\"no data\\")\\n    }\\n    return r.data, nil\\n}\\n\\nfunc main() {\\n    reader := &Reader{data: \\"test\\"}\\n    result := reader.ReadData()\\n    fmt.Println(result)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "fmt.Errorf doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Assignment mismatch: ReadData returns 2 values but only 1 variable on left"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot return nil in Go"\n  }, {\n    "letter" : "D",\n    "answer" : "error is not a valid type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 785
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "740227a3-4af7-4d2e-bdcc-05dd3e507392",\n  "code" : "class Logger:\\n    def __init__(self, name):\\n        self.name = name\\n        self.logs = []\\n    \\n    def log_message(self, message):\\n        self.logs.append(message)\\n        print \\"Logged: \\" + message\\n    \\n    def get_logs(self):\\n        return self.logs\\n    \\n    def clear_logs(self):\\n        self.logs = []\\n    \\n    def get_log_count(self):\\n        return len(self.logs)",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing self parameter"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot append to list"\n  }, {\n    "letter" : "C",\n    "answer" : "len() function doesn\'t exist"\n  }, {\n    "letter" : "D",\n    "answer" : "SyntaxError: Missing parentheses in print (Python 3 syntax)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 785
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "740227a3-4af7-4d2e-bdcc-05dd3e507392",\n  "code" : "class Logger:\\n    def __init__(self, name):\\n        self.name = name\\n        self.logs = []\\n    \\n    def log_message(self, message):\\n        self.logs.append(message)\\n        print \\"Logged: \\" + message\\n    \\n    def get_logs(self):\\n        return self.logs\\n    \\n    def clear_logs(self):\\n        self.logs = []\\n    \\n    def get_log_count(self):\\n        return len(self.logs)",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing self parameter"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot append to list"\n  }, {\n    "letter" : "C",\n    "answer" : "len() function doesn\'t exist"\n  }, {\n    "letter" : "D",\n    "answer" : "SyntaxError: Missing parentheses in print (Python 3 syntax)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 760
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7916a4bc-021c-45f7-b062-2cb5f919a71e",\n  "code" : "class Calculator:\\n    def __init__(self):\\n        self.result = 0\\n    \\n    def add(self, a, b)\\n        return a + b\\n    \\n    def subtract(self, a, b):\\n        return a - b\\n    \\n    def multiply(self, a, b):\\n        return a * b\\n    \\n    def get_result(self):\\n        return self.result\\n    \\n    def reset(self):\\n        self.result = 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing parentheses in __init__ method"\n  }, {\n    "letter" : "B",\n    "answer" : "self parameter should be removed"\n  }, {\n    "letter" : "C",\n    "answer" : "return statements need semicolons"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon after add method definition"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 848
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "9b5ed7f9-8132-44d2-a923-a045a18c22e6",\n  "code" : "class UserValidator:\\n    def __init__(self, min_age):\\n        self.min_age = min_age\\n        self.max_age = 100\\n    \\n    def is_valid_age(self, age):\\n        if age = self.min_age:\\n            return True\\n        return False\\n    \\n    def set_age_range(self, min_age, max_age):\\n        self.min_age = min_age\\n        self.max_age = max_age\\n    \\n    def get_min_age(self):\\n        return self.min_age",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing colon after if statement"\n  }, {\n    "letter" : "B",\n    "answer" : "age variable is not defined"\n  }, {\n    "letter" : "C",\n    "answer" : "Using assignment operator (=) instead of comparison (==) in condition"\n  }, {\n    "letter" : "D",\n    "answer" : "self.min_age should be declared as private"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 857
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "95e4e9b9-01be-4050-8771-308ffd0fd9ba",\n  "code" : "interface Product {\\n    id: number;\\n    name: string;\\n    price: number;\\n}\\n\\nclass ProductManager {\\n    private products: Product[];\\n    \\n    constructor() {\\n        this.products = [];\\n    }\\n    \\n    addProduct(product: Product) void {\\n        this.products.push(product);\\n    }\\n    \\n    getProductById(id: number): Product | undefined {\\n        return this.products.find(p => p.id === id);\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface properties must be optional"\n  }, {\n    "letter" : "B",\n    "answer" : "find method doesn\'t exist on arrays"\n  }, {\n    "letter" : "C",\n    "answer" : "Arrow functions are not allowed in TypeScript"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon before return type void in addProduct method"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 850
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "19bfc0ea-9840-4990-8965-28b74c054ed2",\n  "code" : "type Config = {\\n    host: string;\\n    port: number;\\n};\\n\\nclass ConfigManager {\\n    private config: Config;\\n    \\n    constructor() {\\n        this.config = { host: \\"localhost\\", port: 8080 };\\n    }\\n    \\n    getHost(): string {\\n        return this.config.host;\\n    }\\n    \\n    getDatabase(): string {\\n        return this.config.database;\\n    }\\n    \\n    setPort(port: number): void {\\n        this.config.port = port;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Property \'database\' does not exist on type Config"\n  }, {\n    "letter" : "B",\n    "answer" : "Type alias syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot use dot notation with types"\n  }, {\n    "letter" : "D",\n    "answer" : "constructor must return a value"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 924
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "6a272ac1-6c16-4c95-a7fd-d04e1743a5f0",\n  "code" : "public class TypeConverter {\\n    private String lastInput;\\n    private int lastOutput;\\n    \\n    public TypeConverter() {\\n        this.lastInput = \\"\\";\\n        this.lastOutput = 0;\\n    }\\n    \\n    public void convert() {\\n        String text = \\"123\\";\\n        int number = text;\\n        this.lastInput = text;\\n        this.lastOutput = number;\\n        System.out.println(number);\\n    }\\n    \\n    public String getLastInput() {\\n        return lastInput;\\n    }\\n    \\n    public int getLastOutput() {\\n        return lastOutput;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing semicolon"\n  }, {\n    "letter" : "B",\n    "answer" : "text should be final"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong method signature"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot assign String to int (incompatible types)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 857
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "95e4e9b9-01be-4050-8771-308ffd0fd9ba",\n  "code" : "interface Product {\\n    id: number;\\n    name: string;\\n    price: number;\\n}\\n\\nclass ProductManager {\\n    private products: Product[];\\n    \\n    constructor() {\\n        this.products = [];\\n    }\\n    \\n    addProduct(product: Product) void {\\n        this.products.push(product);\\n    }\\n    \\n    getProductById(id: number): Product | undefined {\\n        return this.products.find(p => p.id === id);\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface properties must be optional"\n  }, {\n    "letter" : "B",\n    "answer" : "find method doesn\'t exist on arrays"\n  }, {\n    "letter" : "C",\n    "answer" : "Arrow functions are not allowed in TypeScript"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing colon before return type void in addProduct method"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 842
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "783ff0a8-7785-48c9-af07-cfbd79839abe",\n  "code" : "interface User {\\n    name: string;\\n    age: number;\\n}\\n\\nclass UserManager {\\n    private users: User[] = [];\\n    \\n    addUser(user: User): void {\\n        this.users.push(user);\\n    }\\n    \\n    getUser(index: number): User {\\n        return this.users[index]\\n    }\\n    \\n    getUserCount(): number {\\n        return this.users.length;\\n    }\\n    \\n    clearUsers(): void {\\n        this.users = [];\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Interface cannot have properties"\n  }, {\n    "letter" : "B",\n    "answer" : "Array initialization syntax is incorrect"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing semicolon after return statement in getUser"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use length property on arrays"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 847
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "27fc8674-7ed5-4d8e-8045-00e7bfd4613f",\n  "code" : "package main\\n\\ntype Logger struct {\\n    name string\\n    logs []string\\n}\\n\\nfunc NewLogger(name string) *Logger {\\n    return &Logger{name: name, logs: make([]string, 0)}\\n}\\n\\nfunc (l *Logger) Log(message string) {\\n    l.logs = append(l.logs, message)\\n    Println(\\"Logged: \\" + message)\\n}\\n\\nfunc (l *Logger) GetLogs() []string {\\n    return l.logs\\n}\\n\\nfunc (l *Logger) Clear() {\\n    l.logs = []string{}\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Undefined: Println (should be fmt.Println or missing import)"\n  }, {\n    "letter" : "B",\n    "answer" : "append is not a built-in function"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot concatenate strings with +"\n  }, {\n    "letter" : "D",\n    "answer" : "make() function requires three arguments"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 924
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "6a272ac1-6c16-4c95-a7fd-d04e1743a5f0",\n  "code" : "public class TypeConverter {\\n    private String lastInput;\\n    private int lastOutput;\\n    \\n    public TypeConverter() {\\n        this.lastInput = \\"\\";\\n        this.lastOutput = 0;\\n    }\\n    \\n    public void convert() {\\n        String text = \\"123\\";\\n        int number = text;\\n        this.lastInput = text;\\n        this.lastOutput = number;\\n        System.out.println(number);\\n    }\\n    \\n    public String getLastInput() {\\n        return lastInput;\\n    }\\n    \\n    public int getLastOutput() {\\n        return lastOutput;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing semicolon"\n  }, {\n    "letter" : "B",\n    "answer" : "text should be final"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong method signature"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot assign String to int (incompatible types)"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 1088
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "fd16ccac-8bbc-4f17-911e-b0c9128df7da",\n  "code" : "public class FileProcessor {\\n    private String lastLine;\\n    private int lineCount;\\n    \\n    public FileProcessor() {\\n        this.lastLine = \\"\\";\\n        this.lineCount = 0;\\n    }\\n    \\n    public void readFile(String path) throws IOException {\\n        File file = new File(path);\\n        Scanner scanner = new Scanner(file);\\n        while (scanner.hasNextLine()) {\\n            lastLine = scanner.nextLine();\\n            lineCount++;\\n        }\\n        System.out.println(lastLine);\\n    }\\n    \\n    public String getLastLine() {\\n        return lastLine;\\n    }\\n    \\n    public int getLineCount() {\\n        return lineCount;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import statements for IOException, File, and Scanner"\n  }, {\n    "letter" : "B",\n    "answer" : "Scanner should be closed"\n  }, {\n    "letter" : "C",\n    "answer" : "File doesn\'t have a Scanner constructor"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot use throws keyword in method signature"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 864
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "d275c81c-92d4-4b97-a76b-1d24d6cdca74",\n  "code" : "class StringProcessor {\\n    private text: string;\\n    private count: number;\\n    \\n    constructor(text: string) {\\n        this.text = text;\\n        this.count = 0;\\n    }\\n    \\n    process(): string {\\n        if (this.text = null) {\\n            return \\"Error\\";\\n        }\\n        this.count++;\\n        return this.text.toUpperCase();\\n    }\\n    \\n    getCount(): number {\\n        return this.count;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "null should be undefined in TypeScript"\n  }, {\n    "letter" : "B",\n    "answer" : "toUpperCase() doesn\'t exist on string type"\n  }, {\n    "letter" : "C",\n    "answer" : "count++ is invalid TypeScript syntax"\n  }, {\n    "letter" : "D",\n    "answer" : "Using assignment (=) instead of comparison (===) in condition"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 810
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "4920a403-4670-4bfa-a027-cd5307e40cef",\n  "code" : "class Calculator {\\n    private result: number;\\n    \\n    constructor() {\\n        this.result = 0;\\n    }\\n    \\n    add(a: number, b: number): number {\\n        return a + b\\n    }\\n    \\n    subtract(a: number, b: number): number {\\n        return a - b;\\n    }\\n    \\n    multiply(a: number, b: number): number {\\n        return a * b;\\n    }\\n    \\n    reset(): void {\\n        this.result = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing type annotation for result"\n  }, {\n    "letter" : "B",\n    "answer" : "constructor should be lowercase"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing semicolon after return statement"\n  }, {\n    "letter" : "D",\n    "answer" : "void is not a valid return type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 799
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "4012f0fc-ba04-4013-8667-2815199f43b5",\n  "code" : "package main\\n\\nimport \\"strconv\\"\\n\\ntype StringProcessor struct {\\n    text string\\n}\\n\\nfunc (sp *StringProcessor) ParseInt() int {\\n    num, err := strconv.Atoi(sp.text)\\n    if err != nil {\\n        return 0\\n    }\\n    return num\\n}\\n\\nfunc (sp *StringProcessor) ParseFloat() float64 {\\n    num, err := strconv.ParseFloat(sp.text, 64)\\n    return num\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "strconv.Atoi doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing return in if block of ParseInt"\n  }, {\n    "letter" : "C",\n    "answer" : "ParseFloat returns error but it\'s not checked/returned (unused variable \'err\')"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot have multiple return values"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 936
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "e3e6ae37-ee77-43a8-ae1a-c9a36fa770a6",\n  "code" : "public class Student {\\n    private String name;\\n    private int age;\\n    private String studentId;\\n    \\n    public Student(String name) {\\n        this.name = name;\\n        this.age = 18;\\n        this.studentId = \\"UNKNOWN\\";\\n    }\\n    \\n    public Student() {\\n        super(\\"Unknown\\");\\n    }\\n    \\n    public String getName() {\\n        return name;\\n    }\\n    \\n    public void setAge(int age) {\\n        this.age = age;\\n    }\\n    \\n    public String getStudentId() {\\n        return studentId;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Cannot have two constructors"\n  }, {\n    "letter" : "B",\n    "answer" : "Constructor should be private"\n  }, {\n    "letter" : "C",\n    "answer" : "super() must be first statement and Object constructor takes no arguments"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing return type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 757
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "8cb124ef-1eba-473e-a877-81abd9ceadba",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Config struct {\\n    Host string\\n    Port int\\n}\\n\\nfunc (c *Config) GetConnectionString() string {\\n    return fmt.Sprintf(\\"%s:%d\\", c.Host, c.Port)\\n}\\n\\nfunc main() {\\n    var config *Config\\n    connection := config.GetConnectionString()\\n    fmt.Println(connection)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Sprintf doesn\'t exist in fmt package"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use := in main function"\n  }, {\n    "letter" : "C",\n    "answer" : "Potential nil pointer dereference (config is nil when calling GetConnectionString)"\n  }, {\n    "letter" : "D",\n    "answer" : "fmt.Println must have semicolon"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

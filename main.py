@@ -286,8 +286,22 @@ from typing import List, Tuple
 
 
 def process_hiking_segments(input_str: str) -> str:
-    # Normalize and split lines, ignoring empty lines
-    lines = [ln.strip() for ln in input_str.strip().splitlines() if ln.strip()]
+    """Process hiking segment data and return statistics string.
+
+    Input format: lines of "distance elevation". The first line may be either:
+    - a single elevation value (starting point), or
+    - "0 elevation" (starting point with explicit 0 distance).
+    Subsequent lines represent segments: distance (km from previous point) and elevation (m above sea level).
+
+    Returns a string: "total_distance max_elevation total_ascent total_descent".
+
+    Edge cases:
+    - Empty or whitespace-only input -> "0 0 0 0".
+    - Single point -> distance 0, ascent 0, descent 0.
+    """
+    # Normalize literal escape sequences to actual newlines, then split lines
+    normalized = input_str.replace("\\r\\n", "\n").replace("\\n", "\n").strip()
+    lines = [ln.strip() for ln in normalized.splitlines() if ln.strip()]
     if not lines:
         return "0 0 0 0"
 
@@ -296,6 +310,30 @@ def process_hiking_segments(input_str: str) -> str:
 
     for i, ln in enumerate(lines):
         parts = ln.split()
+        if i == 0:
+            # First line: allow either "<elevation>" or "0 <elevation>"
+            if len(parts) == 1:
+                try:
+                    e = int(parts[0])
+                except ValueError:
+                    raise ValueError(f"Non-integer elevation at line {i+1}: {ln!r}")
+                distances.append(0)
+                elevations.append(e)
+                continue
+            elif len(parts) == 2:
+                try:
+                    d = int(parts[0])
+                    e = int(parts[1])
+                except ValueError:
+                    raise ValueError(f"Non-integer values at line {i+1}: {ln!r}")
+                if d != 0:
+                    raise ValueError("First line must have distance 0 for the starting point.")
+                distances.append(d)
+                elevations.append(e)
+                continue
+            else:
+                raise ValueError(f"Invalid line format at line {i+1}: {ln!r}")
+        # Subsequent lines must be "distance elevation"
         if len(parts) != 2:
             raise ValueError(f"Invalid line format at line {i+1}: {ln!r}")
         try:
@@ -303,21 +341,14 @@ def process_hiking_segments(input_str: str) -> str:
             e = int(parts[1])
         except ValueError:
             raise ValueError(f"Non-integer values at line {i+1}: {ln!r}")
-        if i == 0 and d != 0:
-            # First line must be a starting point with distance 0
-            raise ValueError("First line must have distance 0 for the starting point.")
         if d < 0:
             raise ValueError(f"Distance must be non-negative at line {i+1}.")
         distances.append(d)
         elevations.append(e)
 
-    # Total distance is the sum of segment distances
     total_distance = sum(distances)
+    max_elevation = max(elevations) if elevations else 0
 
-    # Max elevation
-    max_elevation = max(elevations)
-
-    # Total ascent and descent across consecutive points
     total_ascent = 0
     total_descent = 0
     for prev, curr in zip(elevations, elevations[1:]):
@@ -487,7 +518,7 @@ def Level1():
 
     # question from header -> Task-Description:
 
-    return hiking_statistics(body)
+    return process_hiking_segments(body)
 
 @app.route('/level1/task2', methods=['GET', 'POST'])
 def Level1Task2():
@@ -515,7 +546,16 @@ def Level1Task3():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return code_review(body)
+    #res = ask_ai("Here is a code snippet that needs review:\n" + str(body) + "\n Identify the explanation answer and send back response in this json format: {\"id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\"answerLetter\": \"B\"\}")
+
+    #return res
+    data = json.loads(body)
+    task_id = data.get("id")
+    code = data.get("code", "")
+    answers = data.get("answers", [])
+    res = ask_ai("Reply with just the letter of the correct answer. Here is a code snippet: " + str(code) + "\n Here are some definition options: " + str(answers) + "\n Which one defines the code snipet?")
+
+    return {"id": task_id, "answerLetter": res}
 
 
 @app.route('/level1/bonus', methods=['GET', 'POST'])
