@@ -34,3 +34,39 @@ Task-Description: https://drive.google.com/file/d/130UkE7mdBrQmi8z6_RvcKXt7viMUf
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 468
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/130UkE7mdBrQmi8z6_RvcKXt7viMUfNfR/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "nodes" : [ "WIZARD_TOWER", "ARCANE_BASTION", "SERPENTINE_DUNES", "SILVERBROOK", "EMBERPEAK", "GOLDEN_MEADOWS", "DRAKEWIND_PASS", "SUNFIRE_PLAINS" ],\n  "times" : [ [ 0, 47, 40, 27, 31, 11, 39, 7 ], [ 47, 0, 6, 11, 36, 28, 15, 26 ], [ 40, 6, 0, 36, 28, 32, 45, 8 ], [ 27, 11, 36, 0, 22, 41, 44, 6 ], [ 31, 36, 28, 22, 0, 11, 12, 47 ], [ 11, 28, 32, 41, 11, 0, 44, 3 ], [ 39, 15, 45, 44, 12, 44, 0, 48 ], [ 7, 26, 8, 6, 47, 3, 48, 0 ] ],\n  "start" : "WIZARD_TOWER"\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 653
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/130UkE7mdBrQmi8z6_RvcKXt7viMUfNfR/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "nodes" : [ "WIZARD_TOWER", "SAPPHIRE_LAKE", "STORMSPEAR_CLIFFS", "CRYSTAL_CAVERNS", "ARCANE_BASTION", "SUNFIRE_PLAINS", "SERPENTINE_DUNES", "WHISPERING_WOODS", "SKYFORGE_CITADEL", "SUNSPIRE" ],\n  "times" : [ [ 0, 23, 28, 46, 34, 48, 17, 27, 46, 18 ], [ 23, 0, 4, 25, 13, 1, 19, 38, 30, 45 ], [ 28, 4, 0, 20, 45, 5, 41, 6, 13, 5 ], [ 46, 25, 20, 0, 34, 27, 20, 40, 31, 50 ], [ 34, 13, 45, 34, 0, 32, 3, 8, 14, 35 ], [ 48, 1, 5, 27, 32, 0, 16, 16, 9, 38 ], [ 17, 19, 41, 20, 3, 16, 0, 48, 17, 26 ], [ 27, 38, 6, 40, 8, 16, 48, 0, 5, 30 ], [ 46, 30, 13, 31, 14, 9, 17, 5, 0, 6 ], [ 18, 45, 5, 50, 35, 38, 26, 30, 6, 0 ] ],\n  "start" : "WIZARD_TOWER"\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

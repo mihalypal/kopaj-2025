@@ -34,3 +34,39 @@ hello
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+
+#####################
+		BODY:
+#####################
+good
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+
+#####################
+		BODY:
+#####################
+want
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

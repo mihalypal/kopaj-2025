@@ -549,12 +549,21 @@ def Level1Task3():
     #res = ask_ai("Here is a code snippet that needs review:\n" + str(body) + "\n Identify the explanation answer and send back response in this json format: {\"id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\"answerLetter\": \"B\"\}")
 
     #return res
-    cleaned = body.replace("\\n", "")
+    cleaned = body.encode("utf-8").decode("unicode_escape")
+
     data = json.loads(cleaned)
+
     task_id = data.get("id")
     code = data.get("code", "")
     answers = data.get("answers", [])
-    res = ask_ai("Reply with just the letter of the correct answer. Here is a code snippet: " + str(code) + "\n Here are some definition options: " + str(answers) + "\n Which one defines the code snipet?")
+
+    # Make ChatGPT choose an answer
+    res = ask_ai(
+        "Reply with just the letter of the correct answer.\n"
+        "Here is a code snippet:\n" + code +
+        "\nHere are the options:\n" + str(answers) +
+        "\nWhich option is correct?"
+    ).strip()
 
     return {"id": task_id, "answerLetter": res}
 
@@ -572,7 +581,7 @@ def Level1Bonus():
     return "once.With"
     # return ask_ai("A space is missing between two sentences in the website. What is the last word of the first sentence and the first one of the second? Format: lastword.Firstword (https://bishop-co.com/)\n" + "Answer it with just that 2 words in the correct format!")
 
-@app.route('/level2/task1', methods=['GET', 'POST'])
+@app.route('/level2/task11', methods=['GET', 'POST'])
 def Level2Task1():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -585,7 +594,7 @@ def Level2Task1():
 
     return validate_credit_card(str(body))
 
-@app.route('/level2/task2', methods=['GET', 'POST'])
+@app.route('/level2/task22', methods=['GET', 'POST'])
 def Level2Task2():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -598,7 +607,7 @@ def Level2Task2():
 
     return find_platform_and_max_passengers(body)
 
-@app.route('/level2/task3', methods=['GET', 'POST'])
+@app.route('/level2/task33', methods=['GET', 'POST'])
 def Level2Task3():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode

@@ -1,0 +1,18 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Where did the Bishop team travel to last time?
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
