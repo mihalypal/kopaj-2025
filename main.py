@@ -206,6 +206,36 @@ def parseHttp(request):
 
     return header, body
 
+def calculate_sobering_time(body_str: str) -> dict:
+    # Parse the incoming JSON string
+    body = json.loads(body_str)
+
+    BEER_INC = 0.15   # ‰
+    SHOT_INC = 0.25   # ‰
+    BREAKDOWN = 0.15  # ‰ per hour
+
+    beers = body.get("beers", 0)
+    shots = body.get("shots", 0)
+
+    total_alcohol = beers * BEER_INC + shots * SHOT_INC
+    hours = total_alcohol / BREAKDOWN
+
+    return {"hours": round(hours, 4)}
+
+BEER_BAC = 0.15  # per mille per beer
+SHOT_BAC = 0.25  # per mille per shot
+BREAKDOWN_RATE = 0.15  # per mille per hour
+
+def sober_hours(body: str) -> dict:
+    cleaned = body.replace("\\n", "")
+    data = json.loads(cleaned)
+    beers = float(data.get("beers", 0))
+    shots = float(data.get("shots", 0))
+    bac = beers * BEER_BAC + shots * SHOT_BAC
+    hours = bac / BREAKDOWN_RATE
+    hours = max(0.0, hours)
+    return {"hours": round(hours, 4)}
+
 app = Flask(__name__)
 
 # Ground Floor Tasks
@@ -236,13 +266,12 @@ def Task2():
         f.write("#####################\n\t\tBODY:\n#####################\n")
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
-    res = ask_ai(body + "\n You have to answer the question correctly in one word!")
-    res = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
-    # print(res)
-    # if res last char is '.' then remove it
-    # if res[-1] == '.':
-    #     res = res[:-1]
-    return "asd"
+    res = ask_ai("🍺Márk’s Sobering-Up Time – Task Description One evening, Márk went out with his friends and had a few drinks. The next day, he needs to drive, so he wants to calculate how many hours he has to wait after his last drink for all the alcohol to leave his system, allowing him to drive safely and soberly. ⚙️Calculation Model (based on average values) Use the following simple model for the calculation: • 1 beer → +0.15‰ increase in blood alcohol level • 1 shot (spirits) → +0.25‰ increase in blood alcohol level • Breakdown rate → 0.15‰ per hour Return format: { “hours” : 4.2563 }\n Here is the input: " + str(body))
+    res = ask_ai("In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian. \n This is the sentence: " + str(body) + "\n Give me just the answer in one word!")
+
+    print("ground/Task2:", body)
+
+    return sober_hours(body)
 
 
 @app.route('/ground/task3', methods=['GET', 'POST'])
@@ -257,17 +286,15 @@ def Task3():
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
     # print(body)
-    first_n_pos = body.find('n')
-    body = body[first_n_pos + 1:]
-    # print(body)
-    res = count_islands(parse_string_to_matrix(str(body)))
-    res2 = ask_ai("How many islands in this matrix?" + str(body) + "\n" + "Answer it with one number! Write Just the number! Nothing else!")
-    res2 = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
-
-    return "res2"
 
 
-@app.route('/ground/bonus1', methods=['GET', 'POST'])
+    res = ask_ai("In what language is the following sentence? Respond with the first letter of the language in lowercase. Languages: Afrikaans, Bosnian, Catalan, Dutch, English, French, German, Hungarian. \n This is the sentence: " + str(body) + "\n Give me just the answer in one word!")
+    print("ground/Task3:", res)
+
+    return res
+
+
+@app.route('/ground/bonus', methods=['GET', 'POST'])
 def Task4():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -278,7 +305,7 @@ def Task4():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return str(304.6)+'C'
+    return str(4)
     # return res = ask_ai("Here is the task (Task-Description): " + str(header) + "\n And here is the input data: " + str(body) + "\n Give me just the answer in one word!")
 
 @app.route('/level1/task1', methods=['GET', 'POST'])

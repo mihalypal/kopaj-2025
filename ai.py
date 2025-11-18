@@ -1,6 +1,6 @@
 import requests
 
-PROXY_IP = '172.22.89.112' # '10.33.1.51'
+PROXY_IP = '172.22.89.120' # '10.33.1.51'
 PROXY_PORT = 4000
 TOKEN = 'sk-aJmALeiX9NxvZ4r7Qiy5Rg'
 
@@ -15,7 +15,7 @@ def ask_ai(text_input):
         'Authorization': f'Bearer {TOKEN}'
     }
     body = {
-        "model": "4m",
+        "model": "gpt-4.1-nano",
         "messages": [{"role": "user", "content": text_input}]
     }
 

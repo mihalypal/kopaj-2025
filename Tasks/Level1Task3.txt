@@ -1,0 +1,108 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 799
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "4012f0fc-ba04-4013-8667-2815199f43b5",\n  "code" : "package main\\n\\nimport \\"strconv\\"\\n\\ntype StringProcessor struct {\\n    text string\\n}\\n\\nfunc (sp *StringProcessor) ParseInt() int {\\n    num, err := strconv.Atoi(sp.text)\\n    if err != nil {\\n        return 0\\n    }\\n    return num\\n}\\n\\nfunc (sp *StringProcessor) ParseFloat() float64 {\\n    num, err := strconv.ParseFloat(sp.text, 64)\\n    return num\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "strconv.Atoi doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Missing return in if block of ParseInt"\n  }, {\n    "letter" : "C",\n    "answer" : "ParseFloat returns error but it\'s not checked/returned (unused variable \'err\')"\n  }, {\n    "letter" : "D",\n    "answer" : "Cannot have multiple return values"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 1029
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "6fcd0e21-cd92-4561-bc72-469c00549c00",\n  "code" : "public class MathUtils {\\n    private static final double PI = 3.14159;\\n    \\n    public int divide(int a, int b) {\\n        if (b == 0) {\\n            System.out.println(\\"Cannot divide by zero\\");\\n        } else {\\n            return a / b;\\n        }\\n    }\\n    \\n    public int multiply(int a, int b) {\\n        return a * b;\\n    }\\n    \\n    public double circleArea(double radius) {\\n        return PI * radius * radius;\\n    }\\n    \\n    public int power(int base, int exponent) {\\n        int result = 1;\\n        for (int i = 0; i < exponent; i++) {\\n            result *= base;\\n        }\\n        return result;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing return statement in if branch"\n  }, {\n    "letter" : "B",\n    "answer" : "Should throw exception instead of printing"\n  }, {\n    "letter" : "C",\n    "answer" : "Wrong operator for division"\n  }, {\n    "letter" : "D",\n    "answer" : "Method should be static"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 823
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "1ec243b7-e645-4562-b0f6-d0d32af54bce",\n  "code" : "class DataProcessor:\\n    def __init__(self):\\n        self.data = []\\n        self.total = 0\\n    \\n    def add_item(self, item):\\n        self.data.append(item)\\n        self.total += item\\n    \\n    def process(self):\\n        result = calculation_result\\n        print(result)\\n        return result\\n    \\n    def get_average(self):\\n        if len(self.data) > 0:\\n            return self.total / len(self.data)\\n        return 0",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing import statement"\n  }, {\n    "letter" : "B",\n    "answer" : "Cannot use len() on list"\n  }, {\n    "letter" : "C",\n    "answer" : "Division operator is incorrect"\n  }, {\n    "letter" : "D",\n    "answer" : "NameError: \'calculation_result\' is not defined"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 810
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "4920a403-4670-4bfa-a027-cd5307e40cef",\n  "code" : "class Calculator {\\n    private result: number;\\n    \\n    constructor() {\\n        this.result = 0;\\n    }\\n    \\n    add(a: number, b: number): number {\\n        return a + b\\n    }\\n    \\n    subtract(a: number, b: number): number {\\n        return a - b;\\n    }\\n    \\n    multiply(a: number, b: number): number {\\n        return a * b;\\n    }\\n    \\n    reset(): void {\\n        this.result = 0;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Missing type annotation for result"\n  }, {\n    "letter" : "B",\n    "answer" : "constructor should be lowercase"\n  }, {\n    "letter" : "C",\n    "answer" : "Missing semicolon after return statement"\n  }, {\n    "letter" : "D",\n    "answer" : "void is not a valid return type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 976
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "64861083-fb06-4b89-aa47-f25c9501cd70",\n  "code" : "public class ArrayHandler {\\n    private int[] data;\\n    \\n    public ArrayHandler() {\\n        this.data = new int[10];\\n    }\\n    \\n    public void initialize() {\\n        int[] numbers = new int[5];\\n        numbers = {1, 2, 3, 4, 5};\\n        System.out.println(numbers.length);\\n    }\\n    \\n    public void fillData(int value) {\\n        for (int i = 0; i < data.length; i++) {\\n            data[i] = value;\\n        }\\n    }\\n    \\n    public int sum() {\\n        int total = 0;\\n        for (int num : data) {\\n            total += num;\\n        }\\n        return total;\\n    }\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "Invalid array initialization syntax (missing \'new int[]\')"\n  }, {\n    "letter" : "B",\n    "answer" : "Array size mismatch"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot reassign array"\n  }, {\n    "letter" : "D",\n    "answer" : "Missing import for arrays"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 755
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1CrOAgnnm216SSjbZU57Vd6dX0t_KJkce/view?usp=share_link
+
+#####################
+		BODY:
+#####################
+{\n  "id" : "7f0240ab-472f-46d7-8fdf-479f1c229065",\n  "code" : "package main\\n\\nimport \\"fmt\\"\\n\\ntype Reader struct {\\n    data string\\n}\\n\\nfunc (r *Reader) ReadData() (string, error) {\\n    if r.data == \\"\\" {\\n        return \\"\\", fmt.Errorf(\\"no data\\")\\n    }\\n    return r.data, nil\\n}\\n\\nfunc main() {\\n    reader := &Reader{data: \\"test\\"}\\n    result := reader.ReadData()\\n    fmt.Println(result)\\n}",\n  "answers" : [ {\n    "letter" : "A",\n    "answer" : "fmt.Errorf doesn\'t exist"\n  }, {\n    "letter" : "B",\n    "answer" : "Assignment mismatch: ReadData returns 2 values but only 1 variable on left"\n  }, {\n    "letter" : "C",\n    "answer" : "Cannot return nil in Go"\n  }, {\n    "letter" : "D",\n    "answer" : "error is not a valid type"\n  } ]\n}
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
