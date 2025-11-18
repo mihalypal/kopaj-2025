@@ -70,3 +70,3297 @@ Paintbrush
 ************* N E W  T A S K *************
 ******************************************
 
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 13
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Origami crane
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Dice
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Headphones
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Party hat
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Ruler
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Keys
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Gift
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bottle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Book
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 13
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Origami crane
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Matchbox
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Keys
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Spoon
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Strap
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Ruler
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Binoculars
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Leaf
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pawn
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Block
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Feather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Apple
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Apple
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Ruler
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Spoon
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bottle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Leaf
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Feather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paperclip
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Keys
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Binoculars
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bottle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 22
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Compass (drawing tool)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Scissors
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bulb
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Camera
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 34
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Soap bar (distinct from deodorant)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paperclip
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Block
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Magnet
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paperclip
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bottle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pawn
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Sneakers
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Magnet
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pinecone
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Candle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 13
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Origami crane
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Feather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Leaf
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Tennis ball
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pawn
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Spoon
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Strap
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Camera
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Magnet
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paintbrush
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Block
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bandages
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Binoculars
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pencil
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Dice
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 34
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Soap bar (distinct from deodorant)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Dice
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Ruler
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Book
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Watch
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Dice
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Dice
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Seashell
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Headphones
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Tennis ball
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Scissors
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Headphones
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Keys
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Glasses
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Flashlight
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paintbrush
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Headphones
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Apple
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Seashell
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 34
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Soap bar (distinct from deodorant)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Gift
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Magnet
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Hammer
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Lantern
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bandages
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Watch
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Watch
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Eraser
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Banana
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bulb
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paperclip
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Bulb
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 34
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Soap bar (distinct from deodorant)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Candle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Controller
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Pinecone
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Gift
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Watch
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Headphones
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Candle
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Matchbox
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Camera
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Spoon
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Seashell
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 6
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Teabag
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paintbrush
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Gift
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 11
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Chess clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Strap
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Globe
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Matchbox
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Watch
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 34
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Soap bar (distinct from deodorant)
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Clock
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 9
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paperclip
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Scissors
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 5
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Block
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 4
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Gift
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 3
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Mug
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Calculator
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 8
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Seashell
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 10
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Paintbrush
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 7
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: Return ONLY the ID (number) of the picture where the object can be found. https://drive.google.com/file/d/1T5vOCoZ3aIhLEgQKf3sBygsiP6Vl_yko/view?usp=drive_link
+
+#####################
+		BODY:
+#####################
+Feather
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

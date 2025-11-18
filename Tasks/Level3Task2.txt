@@ -1,0 +1,3168 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy959",\n    "type": "poison"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon4",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy105",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy119",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy536",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy645",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 285
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy524",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 338
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy292",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy875",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy782",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 285
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy536",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 349
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy816",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon4",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 237
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy217",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy49",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 290
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy331",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 244
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy468",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 340
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy203",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 289
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy185",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy814",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy125",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 343
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy239",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy669",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy691",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy459",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 238
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy124",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy659",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon4",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 291
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy410",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 334
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy667",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 286
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy774",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy751",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 338
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy65",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy338",\n    "type": "bug"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 245
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy335",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy421",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon4",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy124",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 287
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy165",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 345
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy911",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 291
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy703",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 345
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy881",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy522",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 285
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy411",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 238
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy457",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 237
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy15",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 290
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy376",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 232
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy580",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy472",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 244
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy440",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 343
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy802",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 289
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy929",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy137",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy156",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy559",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 347
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy315",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 285
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy565",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy516",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 289
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy189",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 284
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy652",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy624",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy277",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy481",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy840",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 243
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy853",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy210",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 347
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy724",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 238
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy917",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 291
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy688",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon3",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy664",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 239
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy381",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy853",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy745",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 239
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy719",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy357",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 286
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy276",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy267",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 235
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy117",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 333
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy125",\n    "type": "bug"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy544",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 289
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy671",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy213",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 337
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy768",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 294
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy664",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy988",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy860",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 287
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy988",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy109",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 336
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy820",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 235
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy854",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 294
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy457",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy264",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon3",\n  "type": "water"\n},\n      {\n  "name": "Pokemon4",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy546",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy426",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy533",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy404",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy901",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy508",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy248",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy440",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 237
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy253",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 343
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy176",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy28",\n    "type": "poison"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 335
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy336",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 233
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy885",\n    "type": "bug"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy198",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy73",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 345
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy133",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 238
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy32",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy349",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 342
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy299",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon4",\n  "type": "steel"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 287
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy930",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy232",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 290
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy992",\n    "type": "bug"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 284
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy715",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 337
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy253",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon4",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy248",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy702",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy320",\n    "type": "bug"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy350",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon4",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy216",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon4",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy533",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon3",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy843",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 345
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy561",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon4",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 289
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy526",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy916",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 238
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy759",\n    "type": "poison"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy659",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon4",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 346
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy682",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 337
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy164",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy659",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy385",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 347
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy414",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon4",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 345
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy988",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 340
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy281",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon4",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy177",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy407",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon1",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 242
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy86",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy627",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 287
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy595",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 338
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy816",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon3",\n  "type": "water"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 335
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy281",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fairy"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 235
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy998",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ice"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy832",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 287
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy596",\n    "type": "fighting"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy763",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 340
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy481",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon4",\n  "type": "ground"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 237
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy234",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 295
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy630",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 231
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy872",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 296
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy98",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 295
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy333",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "electric"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 343
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy861",\n    "type": "ground"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 294
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy246",\n    "type": "water"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon3",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 288
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy65",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 239
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy326",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy117",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon4",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 286
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy801",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy650",\n    "type": "grass"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon3",\n  "type": "water"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 341
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy9",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy436",\n    "type": "psychic"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon1",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 234
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy548",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "rock"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 339
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy113",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon4",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 344
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy419",\n    "type": "fire"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon4",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy430",\n    "type": "electric"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "dark"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon3",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 237
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy711",\n    "type": "dragon"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "bug"\n},\n      {\n  "name": "Pokemon1",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 239
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy353",\n    "type": "poison"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon2",\n  "type": "bug"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 338
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy614",\n    "type": "ghost"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "dark"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 234
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy769",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fire"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "water"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 239
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy84",\n    "type": "steel"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 291
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy604",\n    "type": "fairy"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "water"\n},\n      {\n  "name": "Pokemon2",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 241
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy66",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "flying"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 347
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy603",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "steel"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "electric"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon4",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 235
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy946",\n    "type": "ice"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fire"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 292
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy862",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ground"\n},\n      {\n  "name": "Pokemon2",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon3",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 240
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy635",\n    "type": "flying"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "ghost"\n},\n      {\n  "name": "Pokemon2",\n  "type": "normal"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 236
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy538",\n    "type": "dark"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "rock"\n},\n      {\n  "name": "Pokemon1",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon2",\n  "type": "grass"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 340
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy732",\n    "type": "rock"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "normal"\n},\n      {\n  "name": "Pokemon1",\n  "type": "poison"\n},\n      {\n  "name": "Pokemon2",\n  "type": "dragon"\n},\n      {\n  "name": "Pokemon3",\n  "type": "ice"\n},\n      {\n  "name": "Pokemon4",\n  "type": "poison"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 293
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy364",\n    "type": "normal"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "water"\n},\n      {\n  "name": "Pokemon1",\n  "type": "fairy"\n},\n      {\n  "name": "Pokemon2",\n  "type": "psychic"\n},\n      {\n  "name": "Pokemon3",\n  "type": "psychic"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 296
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: application/json
+Task-Description: https://drive.google.com/file/d/1XV58uGUwjLEResqZ-bJO4PwbtKAFrfHn/view?usp=sharing
+
+#####################
+		BODY:
+#####################
+{\n  "enemy": {\n    "name": "Enemy439",\n    "type": "poison"\n  },\n  "your_team": [\n    {\n  "name": "Pokemon0",\n  "type": "grass"\n},\n      {\n  "name": "Pokemon1",\n  "type": "flying"\n},\n      {\n  "name": "Pokemon2",\n  "type": "fighting"\n},\n      {\n  "name": "Pokemon3",\n  "type": "fighting"\n}\n  ]\n}\n
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

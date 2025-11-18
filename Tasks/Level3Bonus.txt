@@ -1,0 +1,72 @@
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what year did Bishop organized the first Kopaj programming competition? YYYY format.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what year did Bishop organized the first Kopaj programming competition? YYYY format.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what year did Bishop organized the first Kopaj programming competition? YYYY format.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+
+#####################
+		HEADER:
+#####################
+Content-Length: 0
+Host: 172.22.89.112:1234
+User-Agent: Java-http-client/17.0.9
+Content-Type: text/plain
+Task-Description: In what year did Bishop organized the first Kopaj programming competition? YYYY format.
+
+#####################
+		BODY:
+#####################
+
+
+******************************************
+************* N E W  T A S K *************
+******************************************
+

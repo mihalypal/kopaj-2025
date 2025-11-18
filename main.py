@@ -1,4 +1,7 @@
 import ast
+import codecs
+import collections
+import itertools
 
 from flask import Flask, make_response, Response, request
 from astar import a_star_search, ROW, COL
@@ -6,6 +9,7 @@ from ai import ask_ai
 import json
 
 from collections import Counter, deque
+
 
 
 def get_feedback(guess, secret):
@@ -484,6 +488,358 @@ def code_review(body):
         "answerLetter": correct
     }
 
+def parse_input(body: str) -> dict:
+    """
+    Fixes escaped characters from KOPAJ tasks and parses JSON safely.
+    """
+    cleaned = body.encode("utf-8").decode("unicode_escape")
+    return json.loads(cleaned)
+
+
+def find_best_route(nodes, times, start):
+    """
+    Computes the shortest Hamiltonian path starting from `start`.
+    No return trip required.
+    """
+    n = len(nodes)
+    start_index = nodes.index(start)
+
+    # Generate permutations of remaining nodes
+    other_indices = [i for i in range(n) if i != start_index]
+
+    best_time = float("inf")
+    best_path = None
+
+    for perm in itertools.permutations(other_indices):
+        total = 0
+        prev = start_index
+
+        # Sum edges for this route
+        for nxt in perm:
+            total += times[prev][nxt]
+            # pruning: stop early if already worse
+            if total >= best_time:
+                break
+            prev = nxt
+
+        if total < best_time:
+            best_time = total
+            best_path = [start_index] + list(perm)
+
+    # Convert index path to names
+    route_names = [nodes[i] for i in best_path]
+
+    return route_names, best_time
+
+
+def magical_artifact_hunt(body: str) -> dict:
+    """
+    Full pipeline for the Magical Artifact Hunt Task.
+    """
+    data = parse_input(body)
+
+    nodes = data["nodes"]
+    times = data["times"]
+    start = data["start"]
+
+    route, total_time = find_best_route(nodes, times, start)
+
+    return {
+        "route": route,
+        "totalTime": total_time
+    }
+
+def forest_fire_time(body) -> int:
+    # Normalize input
+    if isinstance(body, str):
+        data = json.loads(body)
+    else:
+        data = body
+
+    map_str = data.get('map')
+    wind = data.get('wind')
+    if not isinstance(map_str, str) or wind not in {'N', 'S', 'E', 'W'}:
+        raise ValueError("Invalid input: requires map string and wind in {'N','S','E','W'}")
+
+    # Normalize literal escape sequences to actual newlines
+    map_str = map_str.replace("\\r\\n", "\n").replace("\\n", "\n").strip()
+    grid = [list(row) for row in map_str.split('\n')]
+    if not grid or not grid[0]:
+        return 0
+    R, C = len(grid), len(grid[0])
+
+    # 1. Initialization and Map Parsing
+    start_fires = []
+    house_loc = None
+
+    for r in range(R):
+        for c in range(C):
+            if grid[r][c] == 'F':
+                start_fires.append((r, c))
+            elif grid[r][c] == 'H':
+                house_loc = (r, c)
+
+    if house_loc is None or not start_fires:
+        return 0
+
+    # Fire can only spread to a Tree ('^').
+    BURNABLE = {'^'}
+
+    # Wind mapping: wind blows FROM the given direction, pushing fire one extra cell
+    base = {'N': (-1, 0), 'S': (1, 0), 'W': (0, -1), 'E': (0, 1)}
+    dr_wind, dc_wind = -base[wind][0], -base[wind][1]
+
+    # Time to burn grid: initialized to infinity
+    time_to_burn = [[float('inf')] * C for _ in range(R)]
+
+    # Queue for BFS: stores (turn_time, row, col)
+    queue = collections.deque()
+
+    # Populate the queue with starting fire locations and initial time 0
+    for r, c in start_fires:
+        time_to_burn[r][c] = 0
+        queue.append((0, r, c))
+
+    # 2. Special Case Check (Start Adjacent to House)
+    hr, hc = house_loc
+    neighbors_8 = [
+        (-1, 0), (1, 0), (0, -1), (0, 1),
+        (-1, -1), (-1, 1), (1, -1), (1, 1)
+    ]
+
+    for r_f, c_f in start_fires:
+        for dr, dc in neighbors_8:
+            if r_f + dr == hr and c_f + dc == hc:
+                return 1
+
+    # 3. BFS Iteration
+    while queue:
+        t, r, c = queue.popleft()
+        next_t = t + 1
+
+        # Normal spread (8 directions)
+        for dr, dc in neighbors_8:
+            nr, nc = r + dr, c + dc
+            if 0 <= nr < R and 0 <= nc < C:
+                if (nr, nc) == house_loc:
+                    return next_t
+                if grid[nr][nc] in BURNABLE and next_t < time_to_burn[nr][nc]:
+                    time_to_burn[nr][nc] = next_t
+                    queue.append((next_t, nr, nc))
+
+        # Wind extra spread (one cell push), cannot directly land on house
+        nr_wind, nc_wind = r + dr_wind, c + dc_wind
+        if 0 <= nr_wind < R and 0 <= nc_wind < C:
+            if grid[nr_wind][nc_wind] in BURNABLE and (nr_wind, nc_wind) != house_loc:
+                if next_t < time_to_burn[nr_wind][nc_wind]:
+                    time_to_burn[nr_wind][nc_wind] = next_t
+                    queue.append((next_t, nr_wind, nc_wind))
+
+    # 4. Final Return
+    return 0
+
+
+def type_advantage_finder(body):
+    cleaned = body.encode("utf-8").decode("unicode_escape")
+    body = json.loads(cleaned)
+
+    # Type advantage chart
+    type_chart = {
+        "normal": [],
+        "fire": ["grass", "ice", "bug", "steel"],
+        "water": ["fire", "ground", "rock"],
+        "grass": ["water", "ground", "rock"],
+        "electric": ["water", "flying"],
+        "ice": ["grass", "ground", "flying", "dragon"],
+        "fighting": ["normal", "ice", "rock", "dark", "steel"],
+        "poison": ["grass", "fairy"],
+        "ground": ["fire", "electric", "poison", "rock", "steel"],
+        "flying": ["grass", "fighting", "bug"],
+        "psychic": ["fighting", "poison"],
+        "bug": ["grass", "psychic", "dark"],
+        "rock": ["fire", "ice", "flying", "bug"],
+        "ghost": ["psychic", "ghost"],
+        "dragon": ["dragon"],
+        "dark": ["psychic", "ghost"],
+        "steel": ["ice", "rock", "fairy"],
+        "fairy": ["fighting", "dragon", "dark"]
+    }
+
+    enemy_type = body["enemy"]["type"]
+    your_team = body["your_team"]
+
+    # Find Pokemon with type advantage
+    for pokemon in your_team:
+        pokemon_type = pokemon["type"]
+        if enemy_type in type_chart.get(pokemon_type, []):
+            return {"best_choice": pokemon["name"]}
+
+    # If no advantage found, return first option
+    return {"best_choice": your_team[0]["name"]}
+
+import re
+
+def solve_sudoku_task(body: str):
+    # 1) Decode the escaped UTF-8 box-drawing characters
+    try:
+        decoded = bytes(body, "latin1").decode("utf-8")
+    except:
+        decoded = body  # already decoded case
+
+    # 2) Extract Sudoku rows from ASCII-art
+    grid = []
+    for line in decoded.splitlines():
+        if "│" in line and any(c.isdigit() for c in line):
+            nums = [int(n) for n in re.findall(r"\d", line)]
+            if len(nums) >= 9:         # if 10 numbers (duplicate) → still OK
+                grid.append(nums[:9])  # ALWAYS slice to exactly 9
+
+    # If not exactly 9 rows → malformed
+    if len(grid) != 9:
+        return "Sudoku is incorrect."
+
+    # Helper: find correct missing value
+    def find_correct_value(r, c):
+        row_vals = set(grid[r])
+        col_vals = set(grid[i][c] for i in range(9))
+        block_vals = set(
+            grid[i][j]
+            for i in range((r//3)*3, (r//3)*3 + 3)
+            for j in range((c//3)*3, (c//3)*3 + 3)
+        )
+
+        for z in range(1, 10):
+            if (z not in row_vals) and (z not in col_vals) and (z not in block_vals):
+                return z
+        return None
+
+    # 3) Check rows
+    for r in range(9):
+        seen = set()
+        for c in range(9):
+            v = grid[r][c]
+            if v in seen:
+                correct = find_correct_value(r, c)
+                return f"{r+1}. row {c+1}. column should have been {correct}."
+            seen.add(v)
+
+    # 4) Check columns
+    for c in range(9):
+        seen = set()
+        for r in range(9):
+            v = grid[r][c]
+            if v in seen:
+                correct = find_correct_value(r, c)
+                return f"{r+1}. row {c+1}. column should have been {correct}."
+            seen.add(v)
+
+    # 5) Check 3×3 blocks
+    for br in range(0, 9, 3):
+        for bc in range(0, 9, 3):
+            seen = set()
+            for r in range(br, br+3):
+                for c in range(bc, bc+3):
+                    v = grid[r][c]
+                    if v in seen:
+                        correct = find_correct_value(r, c)
+                        return f"{r+1}. row {c+1}. column should have been {correct}."
+                    seen.add(v)
+
+    return "Sudoku is correct."
+
+
+import re
+
+def sudoku_validator(sudoku_text):
+    # Normalize and decode \xNN escapes (box-drawing often arrives as literal hex escapes)
+    text = sudoku_text
+    if '\\x' in text:
+        try:
+            text = codecs.decode(text, 'unicode_escape')
+        except Exception:
+            # If decoding fails, keep original text
+            pass
+    text = text.replace('\r\n', '\n').replace('\r', '\n').strip()
+
+    # Extract rows
+    lines = text.split('\n')
+    grid = []
+    for line in lines:
+        # Extract only digits 1-9 per row; ignore borders and separators
+        digits = [int(d) for d in re.findall(r'[1-9]', line)]
+        if digits:
+            grid.append(digits)
+
+    # Validate 9x9 shape BEFORE indexing into grid
+    if len(grid) != 9 or any(len(row) != 9 for row in grid):
+        return "Invalid sudoku format."
+
+    # Check each cell for violations
+    for row in range(9):
+        for col in range(9):
+            value = grid[row][col]
+            # Check row for duplicates (first occurrence of duplicate)
+            first_dup_col = -1
+            for c in range(col):
+                if grid[row][c] == value:
+                    first_dup_col = c
+                    break
+            if first_dup_col != -1:
+                correct_value = find_correct_value(grid, row, col)
+                return f"{row + 1}. row {col + 1}. column should have been {correct_value}."
+            # Check column for duplicates
+            first_dup_row = -1
+            for r in range(row):
+                if grid[r][col] == value:
+                    first_dup_row = r
+                    break
+            if first_dup_row != -1:
+                correct_value = find_correct_value(grid, row, col)
+                return f"{row + 1}. row {col + 1}. column should have been {correct_value}."
+            # Check 3x3 box for duplicates
+            box_row_start = (row // 3) * 3
+            box_col_start = (col // 3) * 3
+            found_dup = False
+            for r in range(box_row_start, box_row_start + 3):
+                for c in range(box_col_start, box_col_start + 3):
+                    if (r < row or (r == row and c < col)) and grid[r][c] == value:
+                        found_dup = True
+                        break
+                if found_dup:
+                    break
+            if found_dup:
+                correct_value = find_correct_value(grid, row, col)
+                return f"{row + 1}. row {col + 1}. column should have been {correct_value}."
+    return "Sudoku is correct."
+
+
+def find_correct_value(grid, row, col):
+    # Find which number from 1-9 is missing in the row, column, and box
+    used = set()
+    # Add all numbers from the row
+    used.update(grid[row])
+    # Add all numbers from the column
+    for r in range(9):
+        used.add(grid[r][col])
+    # Add all numbers from the 3x3 box
+    box_row_start = (row // 3) * 3
+    box_col_start = (col // 3) * 3
+    for r in range(box_row_start, box_row_start + 3):
+        for c in range(box_col_start, box_col_start + 3):
+            used.add(grid[r][c])
+    # Find missing number
+    for num in range(1, 10):
+        if num not in used:
+            return num
+    # If all numbers are used, return the number that would make it valid
+    # by checking what's not in the row
+    row_nums = set(grid[row])
+    for num in range(1, 10):
+        if num not in row_nums:
+            return num
+    return 0
+
+
 app = Flask(__name__)
 
 # Ground Floor Tasks
@@ -632,7 +988,7 @@ def Level1Bonus():
     return "Malta"
     # return ask_ai("A space is missing between two sentences in the website. What is the last word of the first sentence and the first one of the second? Format: lastword.Firstword (https://bishop-co.com/)\n" + "Answer it with just that 2 words in the correct format!")
 
-@app.route('/level2/task11', methods=['GET', 'POST'])
+@app.route('/level2/task1', methods=['GET', 'POST'])
 def Level2Task1():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -643,7 +999,10 @@ def Level2Task1():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return validate_credit_card(str(body))
+    res = ask_ai("Here is the input data: " + str(body) + "\n Give me just the answer in one word!")
+    res = magical_artifact_hunt(body)
+
+    return res
 
 @app.route('/level2/task2', methods=['GET', 'POST'])
 def Level2Task2():
@@ -656,12 +1015,12 @@ def Level2Task2():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    ret = ask_ai("Check Task_Description in this: " + str(header) + "\n This is the input: " + str(body) + "\n Give me just the answer in one word!")
+    ret = ask_ai("Check Task-Description in this header: " + str(header) + "\n This is the body's content: " + str(body) + "\n Give me just the answer in one word!")
     print("LEVEL2/TASK2:", ret)
 
     return ret
 
-@app.route('/level2/task33', methods=['GET', 'POST'])
+@app.route('/level2/task3', methods=['GET', 'POST'])
 def Level2Task3():
     header, body = parseHttp(request)
     # Task write into file with every possible input because of the append mode
@@ -672,7 +1031,20 @@ def Level2Task3():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return str(ask_ai(str(body)))
+    szotar = {
+        "1": "Apple, Sneakers, Camera, Pencil, Glasses, Watch, Mug, Binoculars",
+        "2": "Headphones, Lamp, Scissors, Presents, Leaf, Pinecone, Flashlight, Ruler, Lego, Party hat, Globe",
+        "3": "Controller, Pills, Chess, Bottle, Calculator, Clock, Bulb, Book, Patch",
+        "4": "Toothbrush, Hammer, Spoon, Dice, Magnet, Banana, Paintbrush, Shell, Clips, Keys",
+        "5": "Eraser, Feather, Promenade, Tennisball, Origami, Teafilter, Matchbox"
+    }
+    for key, value in szotar.items():
+        if body in value:
+            return key
+
+    res = ask_ai("Here is a list of items grouped in lists." + str(szotar) + "Here is an item. \n" + str(body) + "\nGive me ONLY the number of the list which contains the item. The name of the item may not be accurate, please respont accordingly.")
+    print("LEVEL2/TASK3:", res)
+    return res
 
 
 @app.route('/level2/bonus', methods=['GET', 'POST'])
@@ -686,7 +1058,7 @@ def Level2Bonus():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return str(ask_ai(str(body)))
+    return "2025-11-27"
 
 @app.route('/level3/task1', methods=['GET', 'POST'])
 def Level3Task1():
@@ -698,9 +1070,9 @@ def Level3Task1():
         f.write("#####################\n\t\tBODY:\n#####################\n")
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
-    res = max_profit(body)
-    print(res)
-    return res
+    res = forest_fire_time(body)
+    print("LEVEL3/TASK1:",str(res))
+    return str(res)
 
 @app.route('/level3/task2', methods=['GET', 'POST'])
 def Level3Task2():
@@ -713,7 +1085,7 @@ def Level3Task2():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
     guesses_feedback = parse_input(body)
-    res = solve_mastermind(guesses_feedback)
+    res = type_advantage_finder(body)
 
     return res
 
@@ -728,7 +1100,10 @@ def Level3Task3():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return str(ask_ai(str(body)))
+    res = sudoku_validator(str(body))
+    print("LEVEL3/TASK3:", res)
+    print("BODY:", body)
+    return res
 
 @app.route('/level3/bonus', methods=['GET', 'POST'])
 def Level3Bonus():
@@ -741,71 +1116,488 @@ def Level3Bonus():
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
 
-    return str(ask_ai(str(body)))
+    return "2022"
+
+
+import chess
+
+# Map KOPAJ unicode pieces to FEN
+UNICODE_TO_FEN = {
+    '♙': 'P', '♘': 'N', '♗': 'B', '♖': 'R', '♕': 'Q', '♔': 'K',
+    '♟': 'p', '♞': 'n', '♝': 'b', '♜': 'r', '♛': 'q', '♚': 'k',
+    '□': None, '■': None
+}
+
+VALID_SQUARE_BYTES = {
+    b'\xe2\x99\x9c',  # ♜ black rook
+    b'\xe2\x99\x9d',  # ♝ black bishop
+    b'\xe2\x99\x9e',  # ♞ black knight
+    b'\xe2\x99\x9f',  # ♟ black pawn
+    b'\xe2\x99\x9a',  # ♚ black king
+    b'\xe2\x99\x9b',  # ♛ black queen
+
+    b'\xe2\x99\x94',  # ♔ white king
+    b'\xe2\x99\x95',  # ♕ white queen
+    b'\xe2\x99\x96',  # ♖ white rook
+    b'\xe2\x99\x97',  # ♗ white bishop
+    b'\xe2\x99\x98',  # ♘ white knight
+    b'\xe2\x99\x99',  # ♙ white pawn
+
+    b'\xe2\x96\xa1',  # □ white square
+    b'\xe2\x96\xa0',  # ■ black square
+}
+
+def decode_kopaj_board(body: str):
+    # raw bytes from latin1 are the original \xNN sequences
+    raw = body.encode("latin1")
+
+    # Split into lines by ASCII newline (0x0A)
+    lines = raw.split(b'\n')
+
+    # Last line is "white" or "black"
+    side = lines[-1].decode("utf-8", errors="ignore").strip().lower()
+    board_bytes = lines[:-1]
+
+    rows = []
+
+    for line in board_bytes:
+        squares = []
+        i = 0
+        while i < len(line):
+            # Check next 3 bytes as a UTF-8 sequence
+            chunk = line[i:i+3]
+            if chunk in VALID_SQUARE_BYTES:
+                squares.append(chunk)
+                i += 3
+            else:
+                i += 1
+
+            if len(squares) == 8:
+                break
+
+        if len(squares) == 8:
+            rows.append(squares)
+
+    if len(rows) != 8:
+        raise ValueError(
+            f"Board parsing error: extracted {len(rows)} rows instead of 8."
+        )
+
+    return rows, side
+
+
+BYTE_TO_FEN = {
+    b'\xe2\x99\x99': 'P',
+    b'\xe2\x99\x98': 'N',
+    b'\xe2\x99\x97': 'B',
+    b'\xe2\x99\x96': 'R',
+    b'\xe2\x99\x95': 'Q',
+    b'\xe2\x99\x94': 'K',
+
+    b'\xe2\x99\x9f': 'p',
+    b'\xe2\x99\x9e': 'n',
+    b'\xe2\x99\x9d': 'b',
+    b'\xe2\x99\x9c': 'r',
+    b'\xe2\x99\x9b': 'q',
+    b'\xe2\x99\x9a': 'k',
+
+    b'\xe2\x96\xa1': None,
+    b'\xe2\x96\xa0': None,
+}
+
+
+def rows_to_fen(rows, side):
+    fen_rows = []
+    for row in rows:
+        fen_row = ""
+        empty = 0
+
+        for sq in row:
+            piece = BYTE_TO_FEN[sq]
+            if piece is None:
+                empty += 1
+            else:
+                if empty > 0:
+                    fen_row += str(empty)
+                    empty = 0
+                fen_row += piece
+
+        if empty > 0:
+            fen_row += str(empty)
+
+        fen_rows.append(fen_row)
+
+    turn = "w" if side == "white" else "b"
+    return "/".join(fen_rows) + f" {turn} - - 0 1"
+
+
+def find_mate_in_one(board):
+    for move in board.legal_moves:
+        board.push(move)
+        if board.is_checkmate():
+            board.pop()
+            return move.uci()
+        board.pop()
+    return None
 
 
 
+def solve_final_boss(body):
+    rows, side = decode_kopaj_board(body)
+    fen = rows_to_fen(rows, side)
+    board = chess.Board(fen)
+    return find_mate_in_one(board)
 
 
 
-@app.route('/final-bossxd', methods=['GET', 'POST'])
+import chess
+import sys
+
+
+def solve_mate_in_one(input_string: str) -> str:
+    lines = input_string.strip().split('\n')
+    if len(lines) < 9:
+        # Errors are printed to stderr, which is standard for utility scripts
+        print("Error: Input must contain 8 ranks and the color to move.", file=sys.stderr)
+        return ""
+
+    board_str_lines = lines[:-1]
+    color_to_move = lines[-1].strip().lower()
+
+    piece_map = {
+        '♜': 'r', '♞': 'n', '♝': 'b', '♛': 'q', '♚': 'k', '♟': 'p',
+        '♖': 'R', '♘': 'N', '♗': 'B', '♕': 'Q', '♔': 'K', '♙': 'P',
+        '■': ' ', '□': ' ',  # Empty squares
+    }
+
+    fen_parts = []
+    for line in board_str_lines:
+        fen_rank = ""
+        empty_count = 0
+
+        # Iterate over characters in the line (rank)
+        for char in line:
+            piece_char = piece_map.get(char, None)
+
+            if piece_char is not None and piece_char != ' ':
+                # Found a piece: close out the empty count and add the piece
+                if empty_count > 0:
+                    fen_rank += str(empty_count)
+                    empty_count = 0
+                fen_rank += piece_char
+            elif piece_char == ' ':
+                # Found an empty square
+                empty_count += 1
+            # If the character is not recognized, it's ignored
+
+        # Close out any remaining empty count at the end of the rank
+        if empty_count > 0:
+            fen_rank += str(empty_count)
+
+        fen_parts.append(fen_rank)
+
+    # The FEN board part is ranks 8 through 1, separated by '/'
+    fen_board = "/".join(fen_parts)
+
+    # Determine turn
+    turn_fen = 'w' if color_to_move == "white" else 'b'
+
+    # Construct the full FEN string:
+    # [board] [turn] [castling] [en passant] [halfmove clock] [fullmove number]
+    # We assume standard defaults for the rest, as they won't affect a mate-in-one puzzle.
+    fen = f"{fen_board} {turn_fen} - - 0 1"
+
+    try:
+        # Create the chess board object from the FEN
+        board = chess.Board(fen)
+    except ValueError as e:
+        print(f"Error creating board from FEN: {e}", file=sys.stderr)
+        print(f"Generated FEN: {fen}", file=sys.stderr)
+        return ""
+
+    # 4. Search for the Mate-in-One Move
+    for move in board.legal_moves:
+        # Temporarily make the move
+        board.push(move)
+
+        # Check if the opponent is in checkmate
+        if board.is_checkmate():
+            # Convert the move to the required output format (UCI string, promotion uppercase)
+            uci_move = str(move)
+            if len(uci_move) == 5:
+                # Promotion: convert 'q'/'r'/'b'/'n' to 'Q'/'R'/'B'/'N'
+                uci_move = uci_move[:4] + uci_move[4].upper()
+
+            # Undo the move and return the result
+            board.pop()
+            return uci_move
+
+        # Undo the move to check the next one
+        board.pop()
+
+    # The problem statement guarantees a mate in one, so this path should not be reached.
+    return "Error: Could not find mate in one move."
+
+
+def solve_boss(input_data):
+    """
+    Solve the "checkmate in one" chess puzzle.
+
+    Args:
+        input_data: bytes or str containing the chess board and color to move
+
+    Returns:
+        str: The move in format "piece from_pos to_pos" (e.g., "Q e2 e8")
+    """
+    # Decode if bytes
+    if isinstance(input_data, bytes):
+        board_str = input_data.decode('utf-8')
+    else:
+        board_str = input_data
+
+    lines = board_str.strip().split('\n')
+    board_lines = lines[:-1]  # All but last line (which is the color)
+    color = lines[-1].strip().lower()  # "white" or "black"
+
+    # Parse the board
+    board = []
+    for line in board_lines:
+        row = []
+        for char in line:
+            if char in ['□', '■']:  # Empty squares
+                row.append(None)
+            else:
+                row.append(char)
+        board.append(row)
+
+    # Map Unicode chess pieces
+    white_pieces = {'♔': 'K', '♕': 'Q', '♖': 'R', '♗': 'B', '♘': 'N', '♙': 'P'}
+    black_pieces = {'♚': 'K', '♛': 'Q', '♜': 'R', '♝': 'B', '♞': 'N', '♟': 'P'}
+
+    def is_white(piece):
+        return piece in white_pieces
+
+    def is_black(piece):
+        return piece in black_pieces
+
+    def piece_type(piece):
+        if piece in white_pieces:
+            return white_pieces[piece]
+        elif piece in black_pieces:
+            return black_pieces[piece]
+        return None
+
+    # Find kings
+    white_king_pos = None
+    black_king_pos = None
+    for r in range(8):
+        for c in range(8):
+            piece = board[r][c]
+            if piece == '♔':
+                white_king_pos = (r, c)
+            elif piece == '♚':
+                black_king_pos = (r, c)
+
+    target_king = black_king_pos if color == 'white' else white_king_pos
+
+    def pos_to_chess(r, c):
+        """Convert (row, col) to chess notation (e.g., (7, 4) -> 'e1')"""
+        return chr(ord('a') + c) + str(8 - r)
+
+    def is_valid_pos(r, c):
+        return 0 <= r < 8 and 0 <= c < 8
+
+    def get_piece_moves(piece, r, c):
+        """Get all possible moves for a piece at position (r, c)"""
+        moves = []
+        ptype = piece_type(piece)
+        is_my_piece = (color == 'white' and is_white(piece)) or (color == 'black' and is_black(piece))
+
+        if not is_my_piece:
+            return []
+
+        if ptype == 'P':  # Pawn
+            if color == 'white':
+                # Move forward
+                if is_valid_pos(r - 1, c) and board[r - 1][c] is None:
+                    moves.append((r - 1, c))
+                # Capture diagonally
+                for dc in [-1, 1]:
+                    nr, nc = r - 1, c + dc
+                    if is_valid_pos(nr, nc) and board[nr][nc] and is_black(board[nr][nc]):
+                        moves.append((nr, nc))
+            else:  # black
+                # Move forward
+                if is_valid_pos(r + 1, c) and board[r + 1][c] is None:
+                    moves.append((r + 1, c))
+                # Capture diagonally
+                for dc in [-1, 1]:
+                    nr, nc = r + 1, c + dc
+                    if is_valid_pos(nr, nc) and board[nr][nc] and is_white(board[nr][nc]):
+                        moves.append((nr, nc))
+
+        elif ptype == 'N':  # Knight
+            knight_moves = [(-2, -1), (-2, 1), (-1, -2), (-1, 2), (1, -2), (1, 2), (2, -1), (2, 1)]
+            for dr, dc in knight_moves:
+                nr, nc = r + dr, c + dc
+                if is_valid_pos(nr, nc):
+                    target = board[nr][nc]
+                    if target is None or (color == 'white' and is_black(target)) or (
+                            color == 'black' and is_white(target)):
+                        moves.append((nr, nc))
+
+        elif ptype == 'K':  # King
+            for dr in [-1, 0, 1]:
+                for dc in [-1, 0, 1]:
+                    if dr == 0 and dc == 0:
+                        continue
+                    nr, nc = r + dr, c + dc
+                    if is_valid_pos(nr, nc):
+                        target = board[nr][nc]
+                        if target is None or (color == 'white' and is_black(target)) or (
+                                color == 'black' and is_white(target)):
+                            moves.append((nr, nc))
+
+        elif ptype in ['R', 'Q']:  # Rook or Queen (rook moves)
+            for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                nr, nc = r + dr, c + dc
+                while is_valid_pos(nr, nc):
+                    target = board[nr][nc]
+                    if target is None:
+                        moves.append((nr, nc))
+                    elif (color == 'white' and is_black(target)) or (color == 'black' and is_white(target)):
+                        moves.append((nr, nc))
+                        break
+                    else:
+                        break
+                    nr, nc = nr + dr, nc + dc
+
+        if ptype in ['B', 'Q']:  # Bishop or Queen (bishop moves)
+            for dr, dc in [(1, 1), (1, -1), (-1, 1), (-1, -1)]:
+                nr, nc = r + dr, c + dc
+                while is_valid_pos(nr, nc):
+                    target = board[nr][nc]
+                    if target is None:
+                        moves.append((nr, nc))
+                    elif (color == 'white' and is_black(target)) or (color == 'black' and is_white(target)):
+                        moves.append((nr, nc))
+                        break
+                    else:
+                        break
+                    nr, nc = nr + dr, nc + dc
+
+        return moves
+
+    def is_attacked_by(pos, by_color):
+        """Check if position is attacked by pieces of given color"""
+        r, c = pos
+        # Check all pieces of the attacking color
+        for fr in range(8):
+            for fc in range(8):
+                piece = board[fr][fc]
+                if piece is None:
+                    continue
+                if (by_color == 'white' and is_white(piece)) or (by_color == 'black' and is_black(piece)):
+                    moves = get_piece_moves(piece, fr, fc)
+                    if (r, c) in moves:
+                        return True
+        return False
+
+    def is_checkmate(king_pos, king_color):
+        """Check if the king at king_pos is in checkmate"""
+        # King must be in check
+        attacker_color = 'white' if king_color == 'black' else 'black'
+        if not is_attacked_by(king_pos, attacker_color):
+            return False
+
+        # King has no escape squares
+        kr, kc = king_pos
+        for dr in [-1, 0, 1]:
+            for dc in [-1, 0, 1]:
+                if dr == 0 and dc == 0:
+                    continue
+                nr, nc = kr + dr, kc + dc
+                if is_valid_pos(nr, nc):
+                    target = board[nr][nc]
+                    # Can the king move there?
+                    if target is None or ((king_color == 'white' and is_black(target)) or (
+                            king_color == 'black' and is_white(target))):
+                        # Simulate the move
+                        old_piece = board[nr][nc]
+                        board[nr][nc] = board[kr][kc]
+                        board[kr][kc] = None
+
+                        # Check if still in check
+                        if not is_attacked_by((nr, nc), attacker_color):
+                            # King can escape
+                            board[kr][kc] = board[nr][nc]
+                            board[nr][nc] = old_piece
+                            return False
+
+                        # Undo move
+                        board[kr][kc] = board[nr][nc]
+                        board[nr][nc] = old_piece
+
+        return True
+
+    # Try all possible moves
+    for r in range(8):
+        for c in range(8):
+            piece = board[r][c]
+            if piece is None:
+                continue
+
+            # Check if it's our piece
+            if (color == 'white' and not is_white(piece)) or (color == 'black' and not is_black(piece)):
+                continue
+
+            moves = get_piece_moves(piece, r, c)
+
+            for new_r, new_c in moves:
+                # Make the move
+                old_piece = board[new_r][new_c]
+                board[new_r][new_c] = piece
+                board[r][c] = None
+
+                # Check if this results in checkmate
+                opponent_color = 'black' if color == 'white' else 'white'
+                if is_checkmate(target_king, opponent_color):
+                    # Found checkmate!
+                    from_pos = pos_to_chess(r, c)
+                    to_pos = pos_to_chess(new_r, new_c)
+
+                    # Undo move before returning
+                    board[r][c] = piece
+                    board[new_r][new_c] = old_piece
+
+                    return f"{from_pos}{to_pos}"
+
+                # Undo move
+                board[r][c] = piece
+                board[new_r][new_c] = old_piece
+
+    return "No checkmate in one found"
+
+@app.route('/final-boss', methods=['GET', 'POST'])
 def FinalBoss():
     header, body = parseHttp(request)
 
     # Task write into file with every possible input because of the append mode
-    with open("Tasks/Boss.txt", "a") as f:
+    with open("Tasks/Boss_old.txt", "a") as f:
         f.write("#####################\n\t\tHEADER:\n#####################\n")
         f.write(str(header))
         f.write("#####################\n\t\tBODY:\n#####################\n")
         f.write(str(body))
         f.write("\n\n******************************************\n************* N E W  T A S K *************\n******************************************\n\n")
-    return "KopajxAI"
+
     # print(body)
-    body = body.replace("\\r", "")
-    grid = body.split("\\n")[:-1]
-    src = 0
-    src2 = 0
-    dest = 0
-    grid_res = []
-    for i in enumerate(grid):
-        tmp = []
-        for j in enumerate(i[1]):
-            if grid[i[0]][j[0]] == "#":
-                tmp.append(0)
-                continue
-            elif grid[i[0]][j[0]] == " ":
-                tmp.append(1)
-                continue
-            elif grid[i[0]][j[0]] == "2":
-                src2 = [i[0], j[0]]
-                tmp.append(1)
-                continue
-            if grid[i[0]][j[0]] == "1":
-                src = [i[0], j[0]]
-                tmp.append(1)
-                continue
-            if grid[i[0]][j[0]] == "3":
-                dest = [i[0], j[0]]
-                tmp.append(1)
-                continue
-        grid_res.append(tmp)
+    result = "I accept the terms and conditions"
+    # convert body to bytes
+    res = ask_ai("Here is a chess-board as an input from body: " + str(body) + "\n Give me the mate location on the board in this from-to, 2 positions format: \"h5f7\", Just the positions in the given format, NOTHING ELSE!")
+    #res = solve_final_boss(body)
+    print("FINAL BOSS:", res)
 
-
-    path = a_star_search(grid_res, src, src2, len(grid_res), len(grid_res[0]))
-    path2 = a_star_search(grid_res, src2, dest, len(grid_res), len(grid_res[0]))
-    for i in path2:
-        path.append(i)
-
-    for i, coordinates in enumerate(path):
-        grid[coordinates[0]] = grid[coordinates[0]][:coordinates[1]] + "-" + grid[coordinates[0]][coordinates[1]+1:]
-
-
-    # for i in grid:
-    #     print(i)
-    result = ""
-    for i in grid:
-        result += i + "\n"
-    return Response(result, status=200, mimetype='text/plain')
+    return res
 
 
 if __name__ == '__main__':

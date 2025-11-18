@@ -1,16 +1,16 @@
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -19,16 +19,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -37,16 +37,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -55,16 +55,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -73,16 +73,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -91,16 +91,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -109,16 +109,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-see
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -127,16 +127,16 @@ see
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -145,16 +145,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -163,16 +163,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -181,16 +181,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -199,16 +199,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -217,16 +217,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -235,16 +235,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -253,16 +253,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -271,16 +271,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -289,16 +289,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -307,16 +307,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -325,16 +325,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -343,16 +343,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -361,16 +361,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -379,16 +379,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -397,16 +397,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -415,16 +415,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -433,16 +433,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -451,16 +451,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -469,16 +469,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -487,16 +487,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -505,16 +505,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -523,16 +523,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -541,16 +541,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -559,16 +559,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -577,16 +577,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -595,16 +595,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -613,16 +613,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -631,16 +631,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -649,16 +649,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -667,16 +667,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -685,16 +685,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -703,16 +703,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -721,16 +721,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -739,16 +739,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -757,16 +757,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -775,16 +775,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -793,16 +793,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -811,16 +811,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -829,16 +829,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-see
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -847,16 +847,16 @@ see
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -865,16 +865,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-see
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -883,16 +883,16 @@ see
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -901,16 +901,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -919,16 +919,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -937,16 +937,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -955,16 +955,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -973,16 +973,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -991,16 +991,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1009,16 +1009,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1027,16 +1027,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1045,16 +1045,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1063,16 +1063,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1081,16 +1081,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1099,16 +1099,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1117,16 +1117,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1135,16 +1135,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1153,16 +1153,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1171,16 +1171,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1189,16 +1189,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1207,16 +1207,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1225,16 +1225,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1243,16 +1243,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1261,16 +1261,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1279,16 +1279,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1297,16 +1297,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1315,16 +1315,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1333,16 +1333,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1351,16 +1351,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1369,16 +1369,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1387,16 +1387,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1405,16 +1405,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1423,16 +1423,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1441,16 +1441,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1459,16 +1459,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1477,16 +1477,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1495,16 +1495,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1513,16 +1513,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1531,16 +1531,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1549,16 +1549,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1567,16 +1567,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1585,16 +1585,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1603,16 +1603,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1621,16 +1621,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1639,16 +1639,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1657,16 +1657,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1675,16 +1675,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1693,16 +1693,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1711,16 +1711,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1729,16 +1729,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1747,16 +1747,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1765,16 +1765,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1783,16 +1783,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1801,16 +1801,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1819,16 +1819,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1837,16 +1837,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1855,16 +1855,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1873,16 +1873,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1891,16 +1891,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1909,16 +1909,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1927,16 +1927,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1945,16 +1945,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1963,16 +1963,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1981,16 +1981,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -1999,16 +1999,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2017,16 +2017,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2035,16 +2035,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2053,16 +2053,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2071,16 +2071,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2089,16 +2089,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2107,16 +2107,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-not
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2125,16 +2125,16 @@ not
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2143,16 +2143,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2161,16 +2161,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2179,16 +2179,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-world
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2197,16 +2197,16 @@ world
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2215,16 +2215,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2233,16 +2233,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2251,16 +2251,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2269,16 +2269,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2287,16 +2287,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-small
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2305,16 +2305,16 @@ small
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2323,16 +2323,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2341,16 +2341,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2359,16 +2359,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2377,16 +2377,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2395,16 +2395,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2413,16 +2413,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2431,16 +2431,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2449,16 +2449,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2467,16 +2467,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2485,16 +2485,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2503,16 +2503,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-see
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2521,16 +2521,16 @@ see
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2539,16 +2539,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2557,16 +2557,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2575,16 +2575,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2593,16 +2593,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2611,16 +2611,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2629,16 +2629,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 6
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-person
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2647,16 +2647,16 @@ person
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2665,16 +2665,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-day
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2683,16 +2683,16 @@ day
 #####################
 		HEADER:
 #####################
-Content-Length: 1
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-I
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2701,16 +2701,16 @@ I
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2719,16 +2719,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2737,16 +2737,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 2
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-he
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2755,16 +2755,16 @@ he
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2773,16 +2773,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2791,16 +2791,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2809,16 +2809,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: and=sa
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2827,16 +2827,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: bad=ko
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-thing
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2845,16 +2845,16 @@ thing
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2863,16 +2863,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2881,16 +2881,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2899,16 +2899,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2917,16 +2917,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-food
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2935,16 +2935,16 @@ food
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-move
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"S"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2953,16 +2953,16 @@ move
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-and
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...H......","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2971,16 +2971,16 @@ and
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-good
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -2989,16 +2989,16 @@ good
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-see
+{"map":"~~~~~~~~~~\\n~........~\\n~.F......~\\n~........~\\n~~~~~~~~~~\\n~......H.~\\n~........~\\n~........~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3007,16 +3007,16 @@ see
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-make
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~......H.~\\n~........~\\n~.^^^....~\\n~........~\\n~~~~~~~~~~","wind":"E"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3025,16 +3025,16 @@ make
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-exist
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3043,16 +3043,16 @@ exist
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.H...~\\n~.^^.....~\\n~........~\\n~~~~~~~~~~","wind":"W"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3061,16 +3061,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 5
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-hello
+{"map":"F.........\\n.^........\\n..^.......\\n...^......\\n....^.....\\n.....^....\\n......^...\\n.......^..\\n........^.\\n.........H","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3079,16 +3079,16 @@ hello
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3097,16 +3097,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3115,16 +3115,16 @@ big
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-bad
+{"map":"...F......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...^......\\n...HF.....","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3133,16 +3133,16 @@ bad
 #####################
 		HEADER:
 #####################
-Content-Length: 4
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-want
+{"map":"~~~~~~~~~~\\n~^^^^^^^.~\\n~.F^^^^^.~\\n~..^^^^^^~\\n^^^^^^^^^~\\n~........~\\n~..F.....~\\n~.^^^....~\\n~..H.....~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
@@ -3151,736 +3151,16 @@ want
 #####################
 		HEADER:
 #####################
-Content-Length: 3
+Content-Length: 139
 Host: 172.22.89.112:1234
 User-Agent: Java-http-client/17.0.9
 Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
+Task-Description: https://drive.google.com/file/d/1-Rkwsi-z7qmbDvrFCptvDxjNvLE8yS9l/view?usp=drive_link
 
 #####################
 		BODY:
 #####################
-big
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
-
-#####################
-		BODY:
-#####################
-day
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 2
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
-
-#####################
-		BODY:
-#####################
-he
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 1
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
-
-#####################
-		BODY:
-#####################
-I
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
-
-#####################
-		BODY:
-#####################
-make
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
-
-#####################
-		BODY:
-#####################
-bad
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: world=mu
-
-#####################
-		BODY:
-#####################
-want
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
-
-#####################
-		BODY:
-#####################
-small
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
-
-#####################
-		BODY:
-#####################
-world
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
-
-#####################
-		BODY:
-#####################
-big
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
-
-#####################
-		BODY:
-#####################
-not
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
-
-#####################
-		BODY:
-#####################
-bad
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
-
-#####################
-		BODY:
-#####################
-world
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
-
-#####################
-		BODY:
-#####################
-bad
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
-
-#####################
-		BODY:
-#####################
-good
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: thing=ta
-
-#####################
-		BODY:
-#####################
-day
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
-
-#####################
-		BODY:
-#####################
-see
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
-
-#####################
-		BODY:
-#####################
-day
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
-
-#####################
-		BODY:
-#####################
-and
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
-
-#####################
-		BODY:
-#####################
-hello
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
-
-#####################
-		BODY:
-#####################
-and
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 6
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: day=di
-
-#####################
-		BODY:
-#####################
-person
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: see=ti
-
-#####################
-		BODY:
-#####################
-bad
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: good=ri
-
-#####################
-		BODY:
-#####################
-food
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
-
-#####################
-		BODY:
-#####################
-small
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: I=mi
-
-#####################
-		BODY:
-#####################
-not
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
-
-#####################
-		BODY:
-#####################
-thing
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
-
-#####################
-		BODY:
-#####################
-small
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 2
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
-
-#####################
-		BODY:
-#####################
-he
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: hello=ha
-
-#####################
-		BODY:
-#####################
-and
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: big=je
-
-#####################
-		BODY:
-#####################
-thing
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: move=pa
-
-#####################
-		BODY:
-#####################
-hello
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: he=la
-
-#####################
-		BODY:
-#####################
-thing
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 3
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: person=lu
-
-#####################
-		BODY:
-#####################
-and
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
-
-#####################
-		BODY:
-#####################
-food
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: food=fi
-
-#####################
-		BODY:
-#####################
-small
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: not=na
-
-#####################
-		BODY:
-#####################
-move
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 4
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: want=vo
-
-#####################
-		BODY:
-#####################
-move
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: exist=ne
-
-#####################
-		BODY:
-#####################
-exist
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 1
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: small=zo
-
-#####################
-		BODY:
-#####################
-I
-
-******************************************
-************* N E W  T A S K *************
-******************************************
-
-#####################
-		HEADER:
-#####################
-Content-Length: 5
-Host: 172.22.89.112:1234
-User-Agent: Java-http-client/17.0.9
-Content-Type: text/plain
-Task-Description: Return the word in the new language. By the way here you have 1 word from the new language: make=ka
-
-#####################
-		BODY:
-#####################
-exist
+{"map":"~~~~~~~~~~\\n~~~..~~~~~\\n~~.H.~~~~~\\n~~~.~~~~~~\\n~~~~~~~~~~\\n~..^.....~\\n~.^F^....~\\n~.^^^^...~\\n~........~\\n~~~~~~~~~~","wind":"N"}
 
 ******************************************
 ************* N E W  T A S K *************
